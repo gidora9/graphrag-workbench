@@ -1,0 +1,76 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Final_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+n Istanbul, Türkiye
+n e.eskandari@gmail.com
+n linkedin.com/in/eeskandari
+Profile
+Product leader with 10+ years of experience scaling SaaS and data products across global
+markets. Proven record of founding and exiting ventures, leading cross-functional teams, and
+turning raw data into scalable, user-centric products. Seeking to contribute as Senior Product
+Owner / Product Lead (SaaS, Data) by leveraging expertise in analytics, product strategy, and
+growth leadership.
+Core Skills
+Product Management: Product Strategy · Roadmapping · Agile/Scrum · GTM Planning ·
+Product-Led Growth
+Tools: Jira · Productboard · Figma · Firebase · Metabase · Google Cloud
+Professional Experience
+Founder & Product Lead | GameScrobbler (GS) — Istanbul, Türkiye (2022–Present)
+Built a developer-first data platform unifying gameplay signals from multiple ecosystems into
+actionable insights.
+- Designed and delivered the PlayGraph API and analytics layer, transforming fragmented player
+data into measurable engagement vectors.
+- Led a distributed Agile/Scrum team of engineers and data specialists to ship Playnite and
+Overwolf SDK integrations, achieving steady 20+ installs daily for a full quarter, totally organic.
+- Defined roadmap, MVP, and GTM strategy resulting in thousands of organic sign-ups and long-tail
+user retention.
+- Partnered with early B2B adopters to pilot data-driven personalization and optimization tools.
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul, Türkiye
+(2020–2021)
+Oversaw product roadmap, operations, and revenue growth for a global data-collection and routing
+platform.
+- Managed full P&L; ownership (~$2M annual) while scaling data pipeline efficiency by 40%.
+- Led roadmap prioritization and KPI tracking using Productboard and Metabase, aligning
+engineering, analytics, and sales.
+- Collaborated with enterprise clients to expand API-based integrations for campaign tracking and
+attribution.
+Senior Product Manager | Riwi Corp — Toronto, Canada (2019–2020)
+Led roadmap development and analytics features for enterprise data products.
+- Delivered new integrations and reporting dashboards increasing customer adoption by 25%.
+- Partnered with engineers to optimize analytics pipelines, improving data accuracy and usability.
+
+- Drove stakeholder alignment through KPIs, sprint reviews, and retrospectives.
+- Introduced A/B testing frameworks to validate feature impact and prioritization decisions.
+Co-Founder & COO | Research On Mobile (ROM) — Istanbul, Türkiye (2015–2019)
+Co-founded and scaled a mobile ad and survey SaaS operating in 20+ countries; acquired by Riwi
+Corp.
+- Built and managed a growth loop combining gamified incentives and data analytics, achieving
+over 10K user sign-ups in 2 weeks at CAC under $0.10 (vs $1 market average).
+- Oversaw cross-functional teams across engineering, marketing, and data, driving product iteration
+and expansion.
+- Implemented Agile delivery workflows to shorten release cycles and sustain 30% QoQ growth.
+CEO | NazarBazaar — Tehran, Iran (2012–2014)
+Founded one of the first digital market-research platforms in Iran, building proprietary systems
+under restricted infrastructure.
+- Developed a custom payment gateway and reward system to enable online participation.
+- Launched user acquisition campaigns that achieved high conversion rates in a market with limited
+online tools.
+- Delivered revenue-generating products through creativity and resilience in constrained
+environments.
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+Key Achievements
+- Founded and exited Research On Mobile, a bootstrapped SaaS acquired by Riwi Corp.
+- Delivered multiple 0→1 product launches in data and SaaS ecosystems.
+- Scaled operations to 20+ markets with minimal resources through data-driven experimentation.
+- Designed and implemented growth campaigns achieving 10× user expansion.
+Languages
+English (Full Professional) · Farsi (Native)

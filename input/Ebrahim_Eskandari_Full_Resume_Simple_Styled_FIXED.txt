@@ -1,0 +1,80 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Full_Resume_Simple_Styled_FIXED.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Strategic / Principal Product Manager | GM & P&L Owner | Data & Platform Products
+Istanbul, Türkiye | ebrahim@gamescrobbler.com | linkedin.com/in/eeskandari
+SUMMARY
+• Product leader with 10+ years building and scaling data-heavy platforms, marketplaces, and B2B
+  SaaS—often operating as a CEO proxy in ambiguous, multi-stakeholder environments.
+• Experienced across the full lifecycle: 0→1 discovery, positioning, roadmap, and delivery; and 1→n scaling
+  with Scrum/Kanban, rigorous documentation, and outcome-based prioritization.
+• Strengths: translating client/business needs into shippable product bets; aligning exec stakeholders; running
+  cross-functional teams (7–10+); and building analytics/BI foundations for decision-making.
+CORE SKILLS
+• Product strategy & positioning • Roadmaps & OKRs • Stakeholder & client management • Discovery &
+  interviews • PRDs/specs & documentation
+• Scrum/Kanban (PO) • Backlog prioritization & refinement • Release planning • Data platforms & BI
+  enablement • Marketplace economics & pricing
+• Cross-functional leadership (Eng/Data/Design/Marketing) • P&L ownership • GTM alignment • Vendor/partner
+  coordination
+EXPERIENCE
+Venture Architect / Venture Builder (Consulting) — Independent
+01/2026 – Present | Remote
+• Lead 0→1 venture build engagements: validate market, define segmentation, and translate insights into a
+  commercializable MVP with endntonend documented flows.
+• Design and iterate acquisition funnels (landing pages + Instagram/Google Ads), then run seminstructured
+  interviews from lead cohorts to identify the highestnurgency needs.
+• Produce a turnkey delivery package: product narrative, user journeys, requirements, and a build plan (and,
+  when needed, working production-ready artifacts via modern AI tooling).
+Founder & Product Owner — GameScrobbler (GS)
+01/2025 – 12/2025 | Istanbul, Türkiye
+• Defined product strategy and roadmap for a unified gaming data layer (cross-platform connectors,
+  normalization, and export/analytics workflows).
+• Ran discovery and positioning: mapped market gap, built early prototypes, and translated insights into clear
+  requirements and phased execution plans.
+• Led delivery as product owner (Scrum/Kanban depending on team size): backlog prioritization, refinement,
+  planning, and retros; ensured minimal divergence across stakeholders.
+VP & General Manager, Respondent Opinion Marketplace (ROM) — RIWI
+12/2023 – 12/2024 | Istanbul, Türkiye
+• Owned full P&L and strategy for a respondent marketplace; aligned product, operations, and go-to-market
+  decisions to revenue outcomes.
+• Acted as the CEO proxy for new initiatives: clarified ambiguous client needs, documented options/tradeoffs,
+  and drove execution across teams.
+• Established data-driven operating cadence (pricing/sourcing/performance loops) and scalable playbooks to
+  support growth and predictability.
+Senior Product Manager — RIWI
+07/2022 – 12/2023 | Istanbul, Türkiye
+• Owned roadmap and delivery for core platform capabilities in a data-heavy environment; partnered closely
+  with engineering and data teams.
+• Operated as Product Owner in Scrum: facilitated planning, backlog refinement, and retros; ensured
+
+  stakeholder alignment and tight scope control.
+• Drove discovery, testing, and competitive analysis to sharpen positioning and guide prioritization.
+ConFounder & COO (Product Owner) — Research On Mobile (ROM)
+09/2018 – 06/2022 | Istanbul, Türkiye
+• Co-founded and scaled a data-driven SaaS; drove product direction and operations through acquisition,
+  generating $2.5M+ cumulative revenue.
+• Led product ceremonies end-to-end: backlog prioritization, refinement with technical leadership, and
+  planning/retro participation as the product owner.
+• Built and managed cross-functional teams (product/engineering/data); established an internal BI and data
+  accessibility layer (dashboards, queryability, and retrieval).
+• Served as the bridge to external reality: clients, users, and domain stakeholders—transferring ground-truth
+  insights into clear product decisions.
+Founder & CEO — NazarBazaar
+01/2015 – 02/2018 | Tehran, Iran
+• Built a market research platform; reduced data collection costs ~50% by introducing new survey
+  mechanisms.
+• Increased consumer engagement and completion rates (~30%) through improved incentives and product
+  loops.
+EDUCATION
+M.Sc. Media Management — University of Tehran
+2012 – 2014
+• Thesis: Consumer Insights for Google Search (3,000+ respondents)
+B.Sc. Media Management — University of Tehran
+2008 – 2012

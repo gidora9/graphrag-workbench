@@ -1,0 +1,50 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_RudderStack_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Product Leader | Data-Driven SaaS Founder | Building Developer-First Products
+n Istanbul, Türkiye | n e.eskandari@gmail.com | n linkedin.com/in/eeskandari
+Summary
+Product-driven founder and data strategist with 10+ years of experience building and scaling SaaS
+platforms at the intersection of data infrastructure, analytics, and user identity. Led multiple
+end-to-end product lifecycles — from concept to acquisition — including Research On Mobile
+(acquired by Riwi Corp) and GameScrobbler, a developer-first data platform unifying gameplay data
+via APIs and connectors. Combines technical fluency, customer empathy, and analytical rigor to
+translate complex data ecosystems into usable, scalable products.
+Core Skills
+Product Strategy · Roadmapping · APIs · ETL/ELT · Data Pipelines · CDP Design · SQL · Agile ·
+Market Fit · GTM Alignment
+Experience
+Founder | GameScrobbler (GS) — Istanbul, Türkiye (2022–Present)
+Built a data infrastructure and identity layer for gaming ecosystems, designing PlayGraph API to
+unify player data across multiple platforms.
+VP & GM | Riwi Corp (via ROM Acquisition) — Istanbul (2020–2021)
+Owned P&L; and roadmap for a data routing platform; automated workflows and achieved >$2M
+annual turnover.
+Senior Product Manager | Riwi Corp — Toronto (2019–2020)
+Drove development of API integrations and analytics dashboards based on customer interviews
+and usability testing.
+Co-Founder & COO | Research On Mobile — Istanbul (2015–2019)
+Co-founded and scaled a data SaaS platform acquired by Riwi; led team and achieved >$1.5M
+annual revenue.
+CEO | NazarBazaar — Tehran (2012–2014)
+Founded digital market research platform with automated analytics dashboards.
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+
+Technical & Tools
+APIs · SQL · Metabase · Firebase · Figma · GitHub · Productboard · Jira · Google Cloud · dbt
+(conceptual) · Segment (conceptual)
+Languages
+English (Full Professional) · Farsi (Native)
+Positioning Summary for RudderStack
+Founder-level Product Manager with deep experience in data routing, event pipelines, and
+customer identity graphs — now seeking to apply that expertise at scale in a developer-first
+environment.

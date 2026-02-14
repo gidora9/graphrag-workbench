@@ -1,0 +1,221 @@
+
+==================================================
+EXTRACTED FROM: Working With RIWI - ESOMAR 28 Questions.pdf
+PAGES: 6
+==================================================
+
+
+
+ 
+ 
+ 
+ 
+ESOMAR 
+28  
+QUESTIONS 
+  
+ 
+Working with RIWI 
+November 2022  
+
+ 
+ 
+ 2 
+1. WHAT EXPERIENCE DOES YOUR COMPANY HAVE IN PROVIDING ONLINE SAMPLES FOR 
+MARKET RESEARCH? 
+RIWI specializes in providing programmatic respondents. Our proprietary technology manages 
+recruiting and profiling 100% autonomously. Since 2018, our exclusive matchmaking algorithm has 
+optimized respondent and survey fit using fresh/river sampling. Our clients include some of the 
+industry’s largest market research firms, namely in the exchange platform category. 
+ 
+2. PLEASE DESCRIBE AND EXPLAIN THE TYPE(S) OF ONLINE SAMPLE SOURCES FROM WHICH 
+YOU GET RESPONDENTS. ARE THESE DATABASES? ACTIVELY MANAGED RESEARCH PANELS? 
+DIRECT MARKETING LISTS? SOCIAL NETWORKS? WEB INTERCEPT (ALSO KNOWN AS RIVER) 
+SAMPLES?  
+Our respondents come from the ever-increasing base of mobile application users. We recruit these 
+users via applications or websites with ads. Those that choose to participate in surveys can receive 
+in-app currencies or real world incentives (e.g., coupons, gift cards, etc.).  
+ 
+3. IF YOU PROVIDE SAMPLES FROM MORE THAN ONE SOURCE: HOW ARE THE DIFFERENT 
+SAMPLE SOURCES BLENDED TO ENSURE VALIDITY? HOW CAN THIS BE REPLICATED OVER TIME 
+TO PROVIDE RELIABILITY? HOW DO YOU DEAL WITH THE POSSIBILITY OF DUPLICATION OF 
+RESPONDENTS ACROSS SOURCES? 
+We have complete visibility into the source of each respondent through data collected both directly 
+and indirectly from each user. Demographic data is also cross-checked with dummy attributes to 
+improve data validity and reliability. We also maintain an as-large-as-possible portfolio to ensure 
+diversity and representativeness. In addition, our multi-layer and multi-dimensional deduplication 
+algorithm is able to identify repeat respondents before offering a survey to them to prevent duplicate 
+responses. 
+4. ARE YOUR SAMPLE SOURCE(S) USED SOLELY FOR MARKET RESEARCH? IF NOT, WHAT 
+OTHER PURPOSES ARE THEY USED FOR? 
+Our sample is mainly comprised of various mobile applications that leverage our survey offerings for 
+in-app incentives rather than in-app offers. Users have the option to participate in any activity that 
+suits them such as app installation. When sources come to us, we only use them for market 
+research. 
+5. HOW DO YOU SOURCE GROUPS THAT MAY BE HARD TO REACH ON THE INTERNET?  
+We have established partnerships with local sample sources and local web applications in order to 
+reach difficult regions. To date, we have worked in 229 countries. 
+6. IF, ON A PARTICULAR PROJECT, YOU NEED TO SUPPLEMENT YOUR SAMPLE(S) WITH 
+SAMPLE(S) FROM OTHER PROVIDERS, HOW DO YOU SELECT THOSE PARTNERS? IS IT YOUR 
+POLICY TO NOTIFY A CLIENT IN ADVANCE WHEN USING A THIRD-PARTY PROVIDER? 
+Our model has been built to maximize the reach and aggregation of numerus sources at any given 
+time. Our system is optimized to provide maximum diversification and a maximum sample. 
+ 
+
+ 
+ 
+ 3 
+7. WHAT STEPS DO YOU TAKE TO ACHIEVE A REPRESENTATIVE SAMPLE OF THE TARGET 
+POPULATION? 
+With user demographics available to us, our system is able to provide each survey with sample 
+reflective of national statistic demographics. For more targeted sampling, greater population 
+representation can be achieved through quota sampling. We are also able to increase the 
+representativeness of our samples by leveraging varied mobile applications. 
+ 
+8. DO YOU EMPLOY A SURVEY ROUTER? 
+Yes, we have a survey router that has been built in-house.  
+ 
+9. IF YOU USE A ROUTER: PLEASE DESCRIBE THE ALLOCATION PROCESS WITHIN YOUR 
+ROUTER. HOW DO YOU DECIDE WHICH SURVEYS MIGHT BE CONSIDERED FOR A RESPONDENT? 
+ON WHAT PRIORITY BASIS ARE RESPONDENTS ALLOCATED TO SURVEYS? 
+We have developed a sophisticated algorithm designed to act as a matchmaker. This ‘matchmaker 
+formula’ considers over 100 attributes at any given time to efficiently distribute users based on their 
+demographic information, passive data such as user device and connection, and survey attributes. 
+ 
+10. IF YOU USE A ROUTER: WHAT MEASURES DO YOU TAKE TO GUARD AGAINST, OR MITIGATE, 
+ANY BIAS ARISING FROM EMPLOYING A ROUTER? HOW DO YOU MEASURE AND REPORT ANY 
+BIAS? 
+Our router contributes to a larger system where our proprietary algorithm considers all variables 
+including routing, thus minimizing bias that would typically arise from router usage. 
+ 
+11. IF YOU USE A ROUTER: WHO IN YOUR COMPANY SETS THE PARAMETERS OF THE ROUTER? 
+IS IT A DEDICATED TEAM OR INDIVIDUAL PROJECT MANAGERS? 
+As a tech-driven company, we have a dedicated data team responsible for monitoring and 
+optimizing factors relating to the performance and quality of the overall system, including router 
+optimization. 
+ 
+12. WHAT PROFILING DATA IS HELD ON RESPONDENTS? HOW IS IT DONE? HOW DOES THIS 
+DIFFER ACROSS SAMPLE SOURCES? HOW IS IT KEPT UP TO DATE? IF NO RELEVANT PROFILING 
+DATA GET HELD, HOW ARE LOW-INCIDENCE PROJECTS HANDLED? 
+As a result of our fresh sampling methodology, everything including the profiling process happens 
+on the fly. These attributes expire within a month of their collection. 
+13. PLEASE DESCRIBE YOUR SURVEY INVITATION PROCESS. WHAT IS THE PROPOSITION THAT 
+PEOPLE ARE OFFERED TO TAKE PART IN INDIVIDUAL SURVEYS? WHAT INFORMATION ABOUT 
+THE PROJECT ITSELF IS GIVEN IN THE PROCESS? APART FROM DIRECT INVITATIONS TO 
+SPECIFIC SURVEYS (OR TO A ROUTER), WHAT OTHER MEANS OF INVITATION TO SURVEYS ARE 
+
+ 
+ 
+ 4 
+RESPONDENTS EXPOSED TO? YOU SHOULD NOTE THAT NOT ALL INVITATIONS TO PARTICIPATE 
+TAKE THE FORM OF EMAILS. 
+Our survey invitation process is multi-step. Varying styles of offers including banner ads are 
+presented in-app to mobile users with incentives based on the app they are using. Once a user 
+enters the RIWI system, we capture additional demographic information and invite them to 
+participate in a survey with defined attributes and rewards. Should an app-user consent, they will 
+then proceed to enter the survey. 
+ 
+14. PLEASE DESCRIBE THE INCENTIVES OFFERED TO RESPONDENTS FOR TAKING PART IN 
+YOUR SURVEYS. FOR EXAMPLE, HOW DOES THIS DIFFER BY SAMPLE SOURCE, BY INTERVIEW 
+LENGTH, BY RESPONDENT CHARACTERISTICS? 
+Incentives provided are user-specific and generally based on the application they were using upon 
+opt-in. Different offers and their associated values are automatically determined by our matchmaking 
+algorithm. If a user is recruited through a mobile application, this incentive will come in the form of 
+in-app currencies. Alongside real-world compensation such as coupons, this is the most common 
+form of incentivization. 
+ 
+15. WHAT INFORMATION ABOUT A PROJECT DO YOU NEED TO GIVE AN ACCURATE ESTIMATE 
+OF FEASIBILITY USING YOUR OWN RESOURCES? 
+In order to provide feasibility estimates, we require minimum qualifications to be defined (e.g. 
+screenings and payouts per complete). However, any additional attributes will assist us in facilitating 
+a smoother and faster fielding process. Examples of additional attributes include the length of 
+surveys, incident rates, etc.  
+ 
+16. DO YOU MEASURE RESPONDENT SATISFACTION? IS THIS INFORMATION MADE AVAILABLE 
+TO CLIENTS? 
+We periodically run internal assessments to measure respondent satisfaction and experience and 
+are actively working toward expanding these initiatives. 
+ 
+17. WHAT INFORMATION DO YOU PROVIDE TO DEBRIEF YOUR CLIENT AFTER THE PROJECT HAS 
+FINISHED? 
+No client debrief is required for our sample-only projects as these interactions happen automatically 
+throughout the project process. Full-service projects, however, include project debriefs as part of 
+the services provided by assigned project managers.  
+18. WHO IS RESPONSIBLE FOR DATA QUALITY CHECKS? IF IT IS YOU, DO YOU HAVE IN PLACE 
+PROCEDURES TO REDUCE OR ELIMINATE THAT WHICH IS UNDESIRED WITHIN SURVEY 
+BEHAVIORS, SUCH AS (A) RANDOM RESPONDING, (B) ILLOGICAL OR INCONSISTENT 
+RESPONDING, (C) OVERUSE OF ITEM NON-RESPONSE (SUCH AS "DON'T KNOW") OR (D) 
+SPEEDING (TOO QUICK SURVEY COMPLETION)? PLEASE DESCRIBE THESE PROCEDURES. 
+
+ 
+ 
+ 5 
+We use human and algorithmic tools to monitor data quality. Our system includes automated 
+monitors while our internal data team also continually reviews daily activity to identify and mitigate 
+the risk of undesirable survey-taker behaviour.   
+ 
+19. HOW OFTEN CAN THE SAME INDIVIDUAL BE CONTACTED TO TAKE PART IN A SURVEY 
+WITHIN A SPECIFIED PERIOD WHETHER THEY RESPOND TO THE CONTACT OR NOT? HOW DOES 
+THIS VARY ACROSS YOUR SAMPLE SOURCES? 
+Our system leverages the traffic of users entering in from various offers and as a result, we are not 
+targeting panelists in the traditional sense. Our system also tracks users for a period of time to 
+ensure they cannot return to the same survey or multiple different surveys in the same period. 
+20. HOW OFTEN CAN THE SAME INDIVIDUAL TAKE PART IN A SURVEY WITHIN A SPECIFIED 
+PERIOD? HOW DOES THIS VARY ACROSS YOUR SAMPLE SOURCES? HOW DO YOU MANAGE 
+THIS WITHIN CATEGORIES AND/OR TIME PERIODS? 
+Repeat participation is adjustable per project. In general, we limit users to monthly participation in 
+surveys of similar categories. 
+ 
+21. DO YOU MAINTAIN INDIVIDUAL-LEVEL DATA SUCH AS RECENT PARTICIPATION HISTORY, 
+DATE OF ENTRY, SOURCE, ETC., ON YOUR SURVEY RESPONDENTS? ARE YOU ABLE TO SUPPLY 
+YOUR CLIENT WITH A PROJECT ANALYSIS OF SUCH INDIVIDUAL-LEVEL DATA? 
+Yes, we have a specific internal component for that purpose which logs all user interactions with the 
+platforms including attempts, completes, screen outs, etc. We also offer analysis of this data as an 
+additional service.  
+ 
+22. DO YOU HAVE A CONFIRMATION OF THE RESPONDENT IDENTITY PROCEDURE? DO YOU 
+HAVE PROCEDURES TO DETECT FRAUDULENT RESPONDENTS? PLEASE DESCRIBE THESE 
+PROCEDURES AS THEY ARE IMPLEMENTED AT SAMPLE SOURCE REGISTRATION AND/OR AT THE 
+POINT OF ENTRY TO A SURVEY OR ROUTER. IF YOU OFFER B2B SAMPLES, WHAT ARE THE 
+PROCEDURES THERE, IF ANY? 
+We do not ask for or store any identity related information on our users. The legitimacy of potential 
+users is verified prior to study participation through suspicious traffic filtration. Fraudulent 
+participants are also blocked from entering or viewing the main survey through digital fingerprinting 
+(e.g., IP address checks), behavior analysis, history checks, and deduplication. A third-party service 
+for fraud detection is also used to ascertain a score of fraud chance. 
+ 
+23. PLEASE DESCRIBE THE 'OPT-IN FOR MARKET RESEARCH' PROCESSES FOR ALL YOUR 
+ONLINE SAMPLE SOURCES. 
+All participants must explicitly consent to participating in the market research before their data is 
+processed.  
+ 
+
+ 
+ 
+ 6 
+24. PLEASE PROVIDE A LINK TO YOUR PRIVACY POLICY. HOW IS YOUR PRIVACY POLICY 
+PROVIDED TO YOUR RESPONDENTS? 
+A hyperlink without Privacy Policy is available on the first landing page that users visit when viewing 
+our platform. The link is available here: https://researchonmobile.com/privacy-policy. 
+ 
+25. PLEASE DESCRIBE THE MEASURES YOU TAKE TO ENSURE DATA PROTECTION AND DATA 
+SECURITY.  
+To ensure data protection and security, we process all inquiries regarding data deletion based on 
+the user’s region of residence in a timely manner. 
+ 
+26. WHAT PRACTICES DO YOU FOLLOW TO DECIDE WHETHER ONLINE RESEARCH SHOULD BE 
+USED TO PRESENT COMMERCIALLY SENSITIVE CLIENT DATA OR MATERIALS TO SURVEY 
+RESPONDENTS? 
+For sample only projects, the contents of our surveys are managed by our clients. We work with 
+client in cases where confidentiality is important by providing the necessary agreements and/or 
+messaging to our respondents. For full service projects, RIWI works with clients to implement 
+specific solutions that meet the individual needs of a project. 
+ 
+27. ARE YOU CERTIFIED IN ANY SPECIFIC QUALITY SYSTEM? IF SO, WHICH ONE(S)? 
+No, we are not currently certified in any specific quality systems. 
+ 
+28. DO YOU CONDUCT ONLINE SURVEYS WITH CHILDREN AND YOUNG PEOPLE? IF SO, DO YOU 
+ADHERE TO THE STANDARDS THAT ESOMAR PROVIDES? WHAT OTHER RULES OR 
+STANDARDS, FOR EXAMPLE, COPPA IN THE UNITED STATES, DO YOU COMPLY WITH? 
+We work exclusively with adult respondents.  
+ 

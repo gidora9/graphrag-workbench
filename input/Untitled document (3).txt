@@ -1,0 +1,103 @@
+
+==================================================
+EXTRACTED FROM: Untitled document (3).pdf
+PAGES: 5
+==================================================
+
+
+
+IIM.life — Search & LP Performance Plan 
+English فارسی 
+Goal هدف 
+Build a search-driven conversion system that 
+proves demand fast, then scales safely. 
+ساخت یک سیستم تبدیل مبتنی بر سرچ برای اثبات 
+سریع تقاضا و توسعه امن. 
+  
+Core Rule قاعده اصلی 
+One intent → one page → one KPI. یک نیت → یک صفحه → یک KPI 
+Education and conversion never happen on the 
+same page. 
+آموزش و تبدیل هرگز در یک صفحه انجام 
+ شوند.نمی 
+  
+Target Users مخاطب هدف 
+Phase 1 — Decision-ready: already considering 
+birth abroad, afraid of mistakes. 
+فاز ۱ — آماده تصمیم: در حال بررسی تولد خارج از 
+کشور، نگران اشتباه. 
+
+Phase 2 — Uncertain: unsure if birth citizenship 
+is even real. 
+فاز ۲ — مردد: مطمئن نیست 
+ً
+اصلا شهروندی با تولد 
+واقعیت دارد یا نه. 
+  
+Funnel قیف 
+Phase 1: Search → Decision LP → Lead فاز ۱: سرچ → لندینگ تصمیم → لید 
+Phase 2: Search → Reality Primer → Decision 
+LP → Lead 
+فاز ۲: سرچ → صفحه  سازیشفاف → لندینگ 
+تصمیم → لید 
+  
+Why Start with Phase 1 چرا فاز ۱ 
+Fastest signal, lowest waste, clean attribution.  ترینسریع سیگنال، کمترین هدررفت، اتریبیوشن 
+شفاف. 
+Awareness first hides failure. شروع با آگاهی، شکست را پنهان  کند.می 
+  
+Google Ads — Phase 1 گوگل ادز — فاز ۱ 
+Search only. No Display. No PMax. فقط سرچ. بدون دیسپلی. بدون PMax 
+1 Campaign · 1 Ad Group · 1 LP · 1 Conversion یک کمپین · یک ادگروه · یک LP · یک کانورژن 
+
+Keywords (Exact / Phrase) کلمات کلیدی 
+— شهروندی فرزند با تولدتولد فرزند و شهروندیتابعیت 
+فرزند از طریق تولدآیا تولد منجر به شهروندی 
+ شودمی 
+Negative Keywords کلمات منفی 
+— خرید، قیمت، ارزان، تضمینی،  گذاری،سرمایه 
+پاسپورت فوری، بهترین، سریع 
+  
+Decision Landing Page لندینگ تصمیم 
+Purpose: force a yes / no decision. هدف: اجبار به تصمیم بله / خیر 
+No education, no selling, no country promotion. بدون آموزش، بدون فروش، بدون تبلیغ کشور 
+Structure ساختار 
+Assumption-breaking headlineOne CTA 
+(feasibility check)Who it’s for / not forMinimal 
+form 
+تیتر شکستن فرضیک CTA )بررسی 
+ پذیری(برایامکان چه کسانی هست / نیستفرم 
+حداقلی 
+Rules قوانین 
+
+No header navigationNo homepage linkFooter: 
+Privacy / Terms only 
+بدون هدر ناوبریبدون لینک صفحه اصلیفوتر: فقط 
+Privacy / Terms 
+  
+Measurement سنجش 
+KPI: cost per qualified lead KPI: هزینه هر لید واجد شرایط 
+Ignore: time on page, scroll, bounce نادیده: زمان صفحه، اسکرول، بانس 
+Predefined CPC / CPA limits سقف مشخص CPC / CPA 
+If it fails → kill در صورت شکست → حذف 
+  
+Phase 2 — Reality Primer فاز ۲ — صفحه  سازیشفاف 
+Clarify whether birth citizenship is real or 
+misinformation. 
+ سازیشفاف اینکه شهروندی با تولد واقعیت دارد یا 
+سوءبرداشت است. 
+Short, factual, corrective. کوتاه، واقعی، اصلاحی 
+One CTA → Decision LP یک CTA → لندینگ تصمیم 
+  
+
+Phase 3 — Scale فاز ۳ — توسعه 
+Only after Phase 1 & 2 prove performance. فقط پس از اثبات عملکرد فاز ۱ و ۲ 
+Corridor LPs, country primers, retargeting. LP کریدوری، پرایمر کشوری، ریتارگتینگ 
+  
+Final Positioning  بندیجمع نهایی 
+We run controlled experiments, kill fast, and 
+scale only what works. 
+آزمایش  شدهکنترل اجرا  کنیم،می سریع حذف 
+ کنیممی و فقط آنچه جواب  دهدمی را توسعه 
+ دهیم.می 
+ 

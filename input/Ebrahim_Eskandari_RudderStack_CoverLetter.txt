@@ -1,0 +1,32 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_RudderStack_CoverLetter.pdf
+PAGES: 1
+==================================================
+
+
+
+Ebrahim Eskandari
+Istanbul, Türkiye | e.eskandari@gmail.com | linkedin.com/in/eeskandari
+Dear Hiring Team at RudderStack,
+I’m writing to express my strong interest in the Senior Product Manager position at RudderStack.
+Over the past decade, I’ve built and scaled data-centric SaaS products that bridge complex
+infrastructure with elegant user and developer experiences. My background aligns closely with
+RudderStack’s mission to redefine customer data infrastructure through open, developer-first
+innovation.
+As the founder of GameScrobbler, I’ve led the design of an API-first data platform that unifies
+gameplay data from multiple ecosystems. This work required deep collaboration with engineering,
+data governance, and developer tooling—very similar to RudderStack’s warehouse-native
+approach. Before that, I co-founded Research On Mobile, which was later acquired by Riwi Corp,
+where I served as VP & General Manager overseeing P&L;, product roadmap, and data pipeline
+automation.
+Across these roles, I’ve owned full product lifecycles, translated complex data flows into usable
+APIs, and aligned cross-functional teams across design, engineering, and GTM. My goal has
+always been to create tools that empower others to build and scale on top of reliable data
+foundations—precisely what RudderStack stands for.
+I’m inspired by your open-source and developer-first philosophy and would be thrilled to contribute
+to scaling that vision. I’d welcome the opportunity to discuss how my experience designing scalable
+data infrastructure and customer-facing products could add value to your team.
+Thank you for your time and consideration.
+Best regards,
+Ebrahim Eskandari

@@ -1,0 +1,82 @@
+
+==================================================
+EXTRACTED FROM: Resume (2).pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Istanbul, 34347, Türkiye, +905446196016, e.eskandari@gmail.com, linkedin.com/in/eeskandari
+SUMMARYDynamic Product Owner with over 8 years of experience in the gaming and
+advertising technology sectors. Expert in executing real-time API platforms and
+implementing machine learning dashboards, resulting in a 30% improvement
+in prediction accuracy. Proven leadership skills in overseeing cross-functional
+teams and managing substantial P&L operations. Successfully drove traffic
+acquisition strategies, achieving over $1.5M in annual revenue. Ready to
+leverage unique expertise to drive innovative solutions and growth for
+prospective employers in the tech industry.
+WORK EXPERIENCE
+01/2025 – PresentFounder & Product Owner, GameScrobbler (GS)Istanbul, Turkey
+Executed a real-time API platform for gaming ecosystems, similar to
+rewarded ads, leveraging behavioral intelligence for precise segmentation
+and campaign optimization.
+Implemented machine learning-based dashboards and engagement loops,
+enhancing prediction accuracy by 30%.
+Supervised three cross-functional teams (engineering, data, design)
+employing agile sprints alongside KPI-driven planning.
+Collaborated with publishers to test rewarded engagement models and in-
+game incentive mechanics, aligning these initiatives with monetization and
+retention strategies.
+12/2023 – 12/2024Vice President & General Manager, Riwi CorpIstanbul
+Executed the strategic roadmap for a global data-collection and routing
+platform, which powers advertising and survey campaigns for Fortune 500
+clients.
+Designed automated pipelines for real-time ad-performance data ingestion
+and bidding workflows, achieving a 40% reduction in latency.
+Directed product operations and P&L (~$2M annual turnover), while
+ensuring alignment of the strategic roadmap among commercial and
+engineering teams.
+07/2022 – 12/2023Senior Product Manager, Riwi CorpToronto
+Oversaw the roadmap for advertiser dashboards and API integrations to
+optimize reach, frequency, and targeting strategies.
+Conducted A/B tests that increased reporting adoption by 25%.
+
+09/2018 – 06/2022Co-Founder & COO, Research On Mobile (ROM)Istanbul
+Directed partnership development and traffic acquisition across top-tier
+offer-wall and Ad Tech players (Tapjoy, ironSource, Fyber, AppLovin, etc.)
+for CPA and CPI buying strategies.
+Negotiated and managed traffic expenditures exceeding $100K per month
+across aggregators, programmatic networks, and affiliate partners.
+Oversaw the comprehensive traffic buying and optimization cycle reporting
+prior to delegating tasks to an account management team.
+Built and nurtured relationships with over 20 supply-side partners,
+processing approximately 2M ad events monthly across global campaigns.
+Scaled operations across 20+ countries, achieving over $1.5M in annual
+revenue leading to an eventual acquisition by Riwi Corp.
+Drove a viral referral campaign resulting in 10K new users within two
+weeks, maintaining a customer acquisition cost of less than $0.10
+compared to a $1 market average.
+02/2015 – 02/2018CEO, NazarBazaarTehran
+EDUCATION
+2014 – 2018University of Tehran
+Ph.D., Media Management - I chose not to finish my thesis so I
+could focus en
+Location
+(Did not complete my thesis to work full-time on my startup)
+2008 – 2011IRIB University
+M.A., Media Management
+Location
+Media Management - IRIB University / University of Tehran
+2004 – 2008Shiraz University
+B.A., Community Planning
+Location
+SKILLSMiroFigma
+ZapierProject Management
+CommunicationResilience
+Critical ThinkingCreativity
+LeadershipTeamwork
+Strategic ThinkingProblem-Solving
+Continuous LearningGTM
+Emotional IntelligenceDecision-Making
+LANGUAGESEnglish(Fluent)

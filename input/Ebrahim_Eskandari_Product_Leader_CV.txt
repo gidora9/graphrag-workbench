@@ -1,0 +1,59 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Product_Leader_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Product Leader | Data-Driven SaaS & Growth Strategist
+n Istanbul, Türkiye | n e.eskandari@gmail.com | n linkedin.com/in/eeskandari
+Profile
+Product and operations leader with 10+ years of experience turning complex ideas into scalable
+SaaS products. Successfully founded and exited data-driven ventures, including Research On
+Mobile (acquired by Riwi Corp). Blend of product strategy, data analytics, and cross-functional
+leadership with a focus on 0→1 execution and measurable growth. Comfortable operating at the
+intersection of technology, user behavior, and business outcomes.
+Core Strengths
+Product Management: Strategy · Roadmapping · Prioritization · Growth Experiments
+Data & Analytics: APIs · Pipelines · ETL/ELT · SQL · Product Metrics
+Leadership: Team Building · Cross-Functional Alignment · Agile/Scrum
+Execution: MVP Design · GTM Planning · Product-Led Growth · Experimentation
+Experience
+Founder & Product Lead | GameScrobbler (GS) — Istanbul (2022–Present)
+Built a data platform unifying cross-platform player data into actionable insights for gamers and
+studios. - Designed PlayGraph, an AI-driven system translating gameplay into behavioral vectors. -
+Defined product roadmap, MVP, and go-to-market strategy, leading to thousands of organic users. -
+Managed engineering and data teams to ship integrations (Playnite SDK, Overwolf SDK) using
+agile sprints.
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul (2020–2021)
+Oversaw P&L;, product roadmap, and scaling of a global data marketplace platform. - Automated
+workflows to improve operational efficiency and reduce latency by 40%. - Managed distributed
+engineering and operations teams, aligning business and product objectives.
+Senior Product Manager | Riwi Corp — Toronto (2019–2020)
+Owned roadmap and analytics features for enterprise clients, leading cross-functional delivery
+cycles. Partnered with stakeholders to identify high-value integrations and improve client
+engagement metrics.
+Co-Founder & COO | Research On Mobile (ROM) — Istanbul (2015–2019)
+Co-founded and scaled a mobile data SaaS platform active in 20+ countries; acquired by Riwi Corp.
+- Launched a viral referral campaign that onboarded 10K users in two weeks with CAC below
+$0.10. - Directed product strategy, analytics, and client partnerships, achieving $1.5M annual
+revenue.
+CEO | NazarBazaar — Tehran (2012–2014)
+
+Founded a digital market-research platform, creating a local payment gateway and scaling it into a
+profitable business under infrastructure limitations.
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+Technical Stack & Tools
+SQL · APIs · Firebase · Figma · Metabase · Productboard · Jira · Google Cloud · Amplitude · dbt
+(conceptual)
+Achievements
+• Built and exited a profitable SaaS company (Research On Mobile) without external funding.
+• Scaled user base 100× via organic growth and data-led experiments.
+• Designed and shipped multiple products from 0→1 with global reach.
+Relocation & Availability
+Open to relocation within EU · Available within 30 days of offer · Fluent in English & Farsi

@@ -1,0 +1,112 @@
+
+==================================================
+EXTRACTED FROM: Gaming-data-is-everywhere-but-nowhere-unified.pdf
+PAGES: 9
+==================================================
+
+
+
+Gaming data is everywhere 4 
+but nowhere unified
+Players move seamlessly between Steam, PlayStation, Xbox, mobile, and 
+PC. Each platform captures rich behavioral data 4 playtime, preferences, 
+skill progression, social connections. Yet none of it connects. Every gaming 
+session creates valuable insights that remain trapped in isolated 
+ecosystems, invisible to the studios that could use them to create better 
+experiences.
+
+A valuable dataset that can't be used
+Gameplay reveals how people think, learn, adapt, and 
+collaborate under pressure. It's one of the richest behavioral 
+datasets ever created. But studios struggle to personalize 
+experiences or build meaningful player relationships because 
+cross-platform behavior remains hidden in silos.
+The result? Missed opportunities for deeper engagement, 
+smarter design, and lasting player loyalty.
+
+The data exists 4 the structure doesn't
+Adaptive Difficulty
+Dynamically adjust challenge based on true skill signals across 
+games
+Better Matchmaking
+Create balanced experiences using cross-platform behavioral 
+patterns
+Player Insights
+Understand motivations and preferences beyond single-game 
+metrics
+Retention Signals
+Identify at-risk players before they churn using unified 
+behavior data
+Studios want these capabilities desperately. But fragmented data infrastructure makes unified player understanding nearly 
+impossible to achieve at scale.
+
+Introducing GameScrobbler
+A simple behavioral identity layer
+GameScrobbler unifies gameplay actions across every platform and converts them into rich behavioral embeddings. These 
+embeddings create a PlayGraph 4 a persistent, cross-platform behavioral profile that travels with the player, not the platform.
+One identity. Every gaming moment. Unified insights that finally make personalization possible.
+
+What it enables for players and studios
+Smarter Matchmaking
+Pair players based on true 
+behavioral fit, not just rank or 
+playtime
+Personalized Difficulty
+Adjust challenge curves that respond 
+to real player capability
+Better Player Modeling
+Build accurate profiles that capture 
+cross-game behavior patterns
+Competitive Integrity
+Detect anomalies and smurfing with behavioral 
+consistency checks
+AI-Ready Insights
+Train models on unified behavioral data for next-gen 
+game design
+
+Early traction 4 fully organic
+5K+
+Playnite Users
+Active plugin 
+installations tracking 
+gameplay across 
+platforms
+Live
+PlayGraph Lite
+Onboarding 
+experience 
+demonstrating core 
+value proposition
+Soon
+Steam 
+Unwrapped
+Consumer-facing 
+experience launching 
+to validate demand at 
+scale
+Our growth has been entirely organic, driven by genuine player interest 
+and word-of-mouth. We're supported by experienced advisors who 
+believe in the vision and help us navigate the complex gaming ecosystem.
+
+Experience forged under constraint
+I previously built a $2M+ data company in one of the toughest 
+environments for tech. Limited resources. Uncertain infrastructure. 
+Constant adaptation required.
+Those experiences shaped how I execute: resourceful, focused, and 
+resilient. They taught me to validate quickly, build lean, and stay 
+disciplined on what matters. That mindset helped attract a 
+committed team around GameScrobbler who share the same 
+values.
+
+Why EWOR
+Applying with clarity, not pressure
+EWOR's focus on ambitious but grounded founders matches 
+exactly where we are 4 moving from early traction to 
+building something with long-term impact.
+We're not chasing hype. We're solving a real infrastructure 
+problem that gets more valuable as gaming becomes more 
+distributed. We need partners who understand patient, 
+strategic growth.
+
+Thank you
+Excited for the chance to build this next chapter together.

@@ -1,0 +1,216 @@
+
+==================================================
+EXTRACTED FROM: GSeal: Building Trust Infrastructure for Esports.pdf
+PAGES: 13
+==================================================
+
+
+
+GSEAL
+Building Trust Infrastructure for Esports
+Strategic Validation & Execution Plan
+Presented for Farzad • October 31, 2025
+
+From B2C Product to B2B
+Infrastructure Layer
+ORIGINAL VISION
+Direct-to-consumer gamer verification with individual user
+acquisition as a standalone product.
+NEW STRATEGY
+Backend service for tournament platforms where partnerships
+drive distribution through white-label API integration.
+Built-in distribution through platforms eliminates costly B2C
+acquisition. Predictable B2B SaaS revenue model enables recurring
+monthly income.
+
+Multi-Accounting and Fraud are Recognized
+Problems
+Enterprise solutions validate demand, but 95% of tournaments lack affordable
+verification
+
+GSeal Differentiates Through
+Community-Powered Trust
+Method
+Enterprise: Biometric + Government ID
+GSeal: Peer Vouching + Gameplay Data
+Cost
+Enterprise: $2-5 per verification
+GSeal: $0.25-0.50 per verification
+User Friction
+Enterprise: High (selfie + ID upload)
+GSeal: Low (peer endorsement)
+Target Market
+Enterprise: High-stakes, regulated
+GSeal: Mid-tier, community events
+Don't compete with Daon/Aware for enterprise. Own the mid-
+tier segment they ignore.
+
+Flat Licensing Beats Per-Player Pricing
+Sustainable unit economics with predictable B2B SaaS revenue model
+BASIC
+$500
+per month
+PRO
+$1,000
+per month
+ENTERPRISE
+$2,000+
+per month
+3 platforms × $1,000/month = $3,000 MRR by Month 6
+Infrastructure costs <$300/month = 90% gross margin
+
+Toornament's Modular
+Architecture Enables Native
+Integration
+1. EXPLICIT MODULAR DESIGN
+Developer API tier (€590/month) built for third-party integrations
+with white-label support and custom registration processes.
+2. PROVEN BUNDLE MODEL
+Already sells add-ons like Tournament Boost (€19/tournament).
+Tiered pricing from Free → €19 → €69/month → €590/month.
+3. PARTNERSHIP PRECEDENT
+Ubisoft Nadeo white-label case study proves enterprise
+collaboration capability.
+GSeal can become a native add-on in Toornament's
+ecosystem, bundled as "Verified Tournament" package at
+€99/month (€69 + €30).
+
+Focus 80% of Effort on Toornament
+Platform prioritization based on modular architecture, partnership
+readiness, and integration complexity
+PRIORITY 1 • PRIMARY TARGET
+Toornament
+9/10FIT SCORE
+Modular architecture with Developer API tier, bundle-ready pricing model, partnership
+precedent with Ubisoft white-label
+WEEK 1 OUTREACH PRIORITY
+
+Platform Prioritization Continued
+Secondary and deprioritized targets with strategic rationale
+PRIORITY 2 • SECONDARY TARGET
+Challengermode
+Customizable Spaces with Professional tier, partnership history with Opera GX, but no public
+plugin marketplace
+7/10
+FIT SCORE
+PRIORITY 3 • DEPRIORITIZED
+Start.gg
+Microsoft-owned with likely internal solutions, no visible partner ecosystem, API focused on
+data extraction
+4/10
+FIT SCORE
+
+Success Hinges on Platform Adoption
+Three critical risks with mitigation strategies
+RISK 1: PLATFORM ADOPTION
+60%
+Platforms may resist integration due to dev
+resources or skepticism about peer
+vouching credibility.
+MITIGATION
+No-code CSV integration, free pilot with case study
+commitment, white-label option, revenue share
+model (70/30 split).
+RISK 2: COLD START PROBLEM
+90%
+Peer vouching requires existing verified
+users. Early tournaments have no vouchers
+available.
+MITIGATION
+Manually seed 100-200 verified users per platform,
+automate $5 fast-track via third-party ID API,
+gameplay-based auto-verification.
+RISK 3: TRUST CEILING
+50%
+Peer vouching may be perceived as less
+credible than biometric verification by
+sponsors and high-stakes organizers.
+MITIGATION
+Tiered seals: Bronze (1 vouch), Silver (3 vouches
++ gameplay), Gold (biometric via partner API).
+Transparency dashboard with fraud detection
+layer.
+
+Clear Kill Switches Prevent Wasted Effort
+Go/No-Go criteria with specific checkpoints to validate assumptions
+GO CRITERIA
+✓ Secure 1 pilot partnership by Week 4
+✓ Can build MVP within 2 weeks
+✓ Can manually verify 100-200 seed users
+✓ Comfortable with $5K-10K investment for 3-month pilot
+NO-GO TRIGGERS
+✗ 0 interested platforms after 10+ outreach attempts by Week 4
+✗ Technical execution requires >$20K investment
+✗ Regulatory research reveals imminent KYC mandates
+✗ Competitor launches identical offering before pilot
+WEEK 4
+1
+pilot partnership secured
+WEEK 8
+500
+verified users in pilot
+MONTH 2
+1
+paying partner (pilot converts)
+
+Validate Demand Before Building
+Outreach first, build second. Confirm platform interest before committing development resources.
+WEEKS 1-2
+Validate
+Outreach to Toornament,
+Challengermode, Battlefy
+Create landing page + LinkedIn ads
+Competitor deep dive
+WEEKS 3-4
+Build MVP
+CSV upload/download (no-code
+integration)
+OAuth + peer vouch + fast-track
+queue
+Admin panel for manual verification
+WEEKS 5-6
+Pilot
+White-glove service for first pilot
+partner
+Track metrics: verification rate, fraud
+reports
+Document case study
+WEEKS 7-8
+Iterate or Pivot
+If pilot succeeds: Onboard 2nd
+partner, refine pricing
+If pilot fails: Post-mortem, pivot or
+shut down
+
+24% Success Probability is Typical for B2B SaaS
+60% × 40% = 24%
+Secure 1 pilot partner (Week 4) × Convert to paying (Month 2) = Overall success probability
+IF SUCCESSFUL
+$3,000 MRR by Month 6
+3 platforms × $1,000/month
+$10,000 MRR by Month 12
+10 platforms × $1,000/month
+Network effects accelerate as verified player database becomes
+competitive moat
+IF UNSUCCESSFUL
+Pivot 1: Direct-to-organizer SaaS (bypass platforms)
+Pivot 2: Verification API for broader esports apps
+Pivot 3: Fraud detection analytics play
+Pivot 4: Acquisition target (sell verified player database)
+Stripe, Twilio, and Plaid all faced similar odds in their early stages. B2B SaaS requires multiple attempts to find product-market
+fit. The key is setting clear kill switches to avoid sunk cost fallacy.
+
+Conditional Go – Proceed with
+Cautious Optimism
+WHY THIS STRATEGY WORKS
+Validated market problem, underserved mid-tier segment,
+differentiated peer vouching approach, lean cost structure, and
+Toornament's modular architecture as natural fit.
+EXECUTION RISKS
+Platform adoption uncertain (60% risk), cold start requires
+manual effort, trust ceiling may limit upside, competitive moat
+weak initially.
+RECOMMENDATION
+Proceed with pilot, but validate at every step. Week 4: 1 pilot
+partnership or pivot. Week 8: 500 verified users or reassess.
+Month 2: 1 paying customer or pivot.

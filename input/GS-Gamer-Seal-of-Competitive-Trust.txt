@@ -1,0 +1,81 @@
+
+==================================================
+EXTRACTED FROM: GS-Gamer-Seal-of-Competitive-Trust.pdf
+PAGES: 14
+==================================================
+
+
+
+GS 
+Gamer Seal of Competitive Trust
+Optional. Earned. Cross-platform.
+
+Identity Has No Memory
+Performance persists.
+Players don't.
+Identity resets break trust.
+
+Verified Integrity Gap
+Riot: Smurfing harms 
+fairness.
+VALORANT: 17% reduction 
+via behavior models.
+OSU: 69% of gamers smurf.
+
+The Missing Layer
+No one owns cross-platform identity.
+Publishers ³ game-localPlatforms ³ handle-levelOrganizers ³ forms
+
+GS Insight
+Trust must be:
+Optional
+Positive
+Earned through proof
+
+GSeal (The Seal)
+Play ProofPeer ProofPay Proof
+³ Dynamic, earned trust signal
+
+Agentic AI Engine
+01
+Account linking
+02
+Proof generation
+03
+Graph reasoning
+04
+Real-time Seal updates
+
+Why the Seal Wins
+Players ³ trustedOrganizers ³ stable events
+Platforms ³ trust layerTeams ³ verified talent
+
+Market Reality
+10315M
+competitive participants
+150K3250K
+organizers
+APIs now open
+AI now capable
+
+Early Revenue Surfaces
+Seal-enabled eventsPlatform integrations
+Premium Seal tiersScouting analytics
+
+Founders
+Ebi
+Product, execution, GTM
+Farzad
+Architecture, AI systems, data engineering
+
+Resilience Story
+BootstrappedBuilt ³ failed ³ iterated ³ rebuilt
+Zero safety netPersistent execution
+
+Vision
+A Seal that follows the player
+Proof-based identity
+Trust infrastructure for competitive gaming
+
+ Demo
+Live demo: GSeal in action

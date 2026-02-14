@@ -1,0 +1,84 @@
+
+==================================================
+EXTRACTED FROM: GameScrobbler-PlayGraph-and-GamerSeal.pdf
+PAGES: 9
+==================================================
+
+
+
+GameScrobbler
+PlayGraph & GamerSeal
+The invisible data backbone of gaming
+
+The Problem: Fragmented & 
+Untrusted
+Gamers are cross-
+platform
+identities scattered
+Studios fight endlessly
+anti-cheat arms race
+No way to port
+trust across games
+
+The Solution
+PlayGraph: Unified gamer identity
+(cross-platform profile)
+GamerSeal: Portable trust layer for 
+studios
+(fair play signal)
+One-liner: Unified identity in, 
+portable trust out
+
+MVP & Tech
+Live, not theory ³ Playnite plugin + Overwolf integration in progress
+Pipeline: Passive ingestion ³ semantic normalization ³ knowledge graph ³ API
+Cloud-native, cost-efficient (<¬500/mo infra credits)
+Ingest
+Normalize
+Graph
+Expose
+
+Traction
+5,000+
+installs of Playnite plugin
+1M+
+sessions tracked
+100+
+countries reached
+Entirely organic growth (no marketing yet)
+
+Go-to-Market
+1
+Q4: Steam "Unwrapped" viral campaign 
++ Overwolf rollout
+B2C virality ³ intake flywheel
+2
+B2B pilots (2026): GamerSeal trust API 
+with 233 partner studios
+
+Business Model
+B2C: Free identity
+(drives virality)
+B2B: SaaS API for trust 
+signals
+(tiered pricing)
+Future: Privacy-preserving 
+aggregated datasets
+
+Team
+Ebrahim Eskandari 4 Serial founder, SaaS exit, product & strategy
+Farzad Haghighat 4 Co-founder, backend & data strategy
+Ali & Mehrad 4 Part-time dev support
+Advisor (Mehdi, ex-Google) 4 Tech/AI architecture
+
+Why Enchant
+Perfect fit at the intersection of Gaming + AI
+What we seek:
+MVP refinement & architecture review
+GTM support (Overwolf + viral campaign)
+Studio intros for GamerSeal pilots
+Fundraising mentorship & exposure at global events
+What we bring:
+Live MVP with organic traction
+Strong founder/operator team with prior exit
+Vision to make trust portable across gaming

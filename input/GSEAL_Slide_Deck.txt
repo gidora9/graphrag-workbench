@@ -1,0 +1,44 @@
+
+==================================================
+EXTRACTED FROM: GSEAL_Slide_Deck.pdf
+PAGES: 3
+==================================================
+
+
+
+GSEAL – Competitive Gaming Trust Layer
+- Platform-agnostic identity & verification layer
+- Eliminates smurfing, account sharing, fraud
+- Multi-signal Seal Score: Play / Peer / Pay
+Problem
+- No cross-platform identity layer in competitive gaming
+- High fraud rates in paid/prize tournaments
+- Organizers waste time policing legitimacy
+Solution: GSEAL
+- Portable Seal Score across all platforms
+- Lightweight verification widget (frictionless)
+- Three verification signals merged into one score
+Target Customers
+- Tournament platforms (Challonge, start.gg, etc.)
+- Independent organizers
+- Competitive players
+- Prize & paid-entry ecosystems
+
+Why Now
+- Explosion of amateur competitive gaming
+- Financial incentives increase fraud
+- Platforms lack resources to build verification
+Business Model
+- Platform licensing based on verified volume
+- Organizer subscriptions or per-event fees
+- Player Seal+ premium tier
+- Payment and prize validation fees
+Team
+- Ebrahim – Founder, global scale experience (ROM: 2M MAU)
+- Farzad – Co-founder, technical architecture
+- Ali & Mehrad – Long-time developers, product execution
+Vision
+- Become the trust layer of competitive gaming
+- Standardize portability of verified player identity
+- Enable safer, fairer global esports ecosystems
+

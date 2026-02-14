@@ -1,0 +1,89 @@
+
+==================================================
+EXTRACTED FROM: GSEAL_Full_Pitch_Deck.pdf
+PAGES: 14
+==================================================
+
+
+
+GSEAL – The Trust Layer for Competitive Gaming
+- Platform-agnostic identity & verification layer
+- Portable Seal Score: Play / Peer / Pay
+- Authenticated competition without friction
+
+Market Problem
+- Smurfing, account sharing, banned-player evasion
+- No cross-platform trusted identity layer
+- High fraud rates in prize/payed tournaments
+- Organizers spend hours manually verifying players
+
+Why the Problem Persists
+- Platforms choose low friction → no verification
+- KYC-only solutions are too heavy for gamers
+- Anti-cheat doesn’t solve identity integrity
+- No portable reputation model across games
+
+Solution: GSEAL
+- Unified Seal Score combining 3 signals: Play / Peer / Pay
+- Lightweight widget for platforms; minimal integration
+- Players carry trust across all tournaments
+- Organizers reduce manual policing to near-zero
+
+Verification Layers
+- Play-Proof: Game-linked data, performance consistency
+- Peer-Proof: Community confirmations, organizer signals
+- Pay-Proof: Fraud-safe identity for paid/prize events
+- Weighted into a single portable Seal Score
+
+Target Customers
+- Tournament platforms (start.gg, Challonge, Toornament)
+- Independent organizers running regular events
+- Competitive players wanting verified environments
+- Prize/paid-entry operators needing fraud reduction
+
+Why Now
+- Explosion of amateur competitive gaming
+- Increasing financial incentives → increasing fraud
+- Platforms lack resources to build verification internally
+- GSEAL provides a neutral, ecosystem-wide layer
+
+Business Model
+- B2B platform licensing (usage-based)
+- Organizer subscriptions & per-event fees
+- Player Seal+ premium tier
+- Pay-proof transaction validation fees
+
+Competitive Advantage
+- Not KYC, not a passport → frictionless & game-native
+- Portable trust layer across all platforms
+- Multi-signal identity model unique in the market
+- Founder history building large-scale verification systems
+
+Go-To-Market Strategy
+- Start with lightweight frontend widget demos
+- Target high-pain organizers (paid/prize tournaments)
+- Secure first platform integration → seal standardization
+- Expand into mid-size & enterprise platforms
+
+Traction & Validation
+- Validated with tournament organizers & players
+- Strong demand for reducing smurfing & cheating
+- Clear willingness to adopt a frictionless trust layer
+- Technical feasibility validated by engineering team
+
+Roadmap – Next 90 Days
+- Build verification widget & Seal Score prototype
+- Close first platform integration
+- Launch with first 10+ organizers
+- Reach 500–1,000 verified players
+
+Team
+- Ebrahim – Founder, built ROM to 2M MAU in 180+ countries
+- Farzad – Co-founder, leading technical architecture
+- Ali – Gameplay developer, game-side logic research
+- Mehrad – Full-stack engineer, widget + data flows
+
+Vision
+- GSEAL becomes the standard for verified competitive gaming
+- A portable trust identity every player can own
+- Safer tournaments, better matches, global integrity layer

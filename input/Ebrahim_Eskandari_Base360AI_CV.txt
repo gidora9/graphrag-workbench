@@ -1,0 +1,59 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Base360AI_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Founder | Product Builder | AI-Driven Data Strategist
+n Istanbul, Türkiye | n e.eskandari@gmail.com | n linkedin.com/in/eeskandari
+Profile
+Serial founder and product builder with 10+ years of experience turning complex data ecosystems
+into usable, scalable products. Founded and led multiple SaaS ventures from zero to acquisition —
+including Research On Mobile (acquired by Riwi Corp) and GameScrobbler, an AI-driven data
+platform that unifies fragmented gaming data into actionable insights. Blend of deep execution,
+analytical thinking, and creative intuition — driven by a belief that data and automation can
+transform how industries operate. Thrives in fast, experimental environments where ideas move
+from concept → prototype → market validation at speed.
+Core Strengths
+Venture Building: Opportunity validation · MVP design · Market testing · Iterative growth
+Product & Strategy: Roadmapping · AI & automation · SaaS & APIs · Business model design
+Data & Analytics: ETL/ELT · Data pipelines · SQL (Metabase) · Product analytics
+Leadership: Cross-functional teams · Remote collaboration · Fundraising & partnerships
+Experience
+Founder | GameScrobbler (GS) — Istanbul, Türkiye (2022–Present)
+Building an AI-driven data infrastructure that unifies gaming ecosystems and creates personalized
+insights for players and studios. - Designed the PlayGraph engine, an API-based system translating
+user behavior into machine-readable identity vectors. - Launched developer-first integrations
+(Playnite SDK, Overwolf SDK) and scaled organically to thousands of active users. - Managed a
+distributed team of engineers and data specialists; built MVPs, validated traction, and iterated at
+startup speed. - Defined multiple business lines (B2C viral data campaigns, B2B DaaS, and
+trust-score systems).
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul (2020–2021)
+Owned P&L; and product roadmap for a data-collection and routing platform used by enterprise
+clients in 70+ markets. Automated research workflows into scalable data pipelines, achieving >$2M
+annual turnover. Directed a cross-functional team across engineering, analytics, and operations —
+delivering new data products on aggressive timelines.
+Senior Product Manager | Riwi Corp — Toronto (2019–2020)
+Led roadmap, user research, and analytics initiatives for B2B data-insight products. Partnered with
+engineering to deliver API integrations and internal dashboards.
+Co-Founder & COO | Research On Mobile (Acquired by Riwi Corp) — Istanbul (2015–2019)
+Co-founded a mobile-first data SaaS for real-time audience insights. Scaled to >$1.5M annual
+revenue pre-acquisition, managing a 7-person cross-functional team. Designed backend data
+ingestion and transformation systems serving thousands of users.
+
+CEO | NazarBazaar — Tehran (2012–2014)
+Founded an incentive-based market-research platform integrating digital data collection and
+behavioral analytics.
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+Technical Stack
+APIs · SQL · Firebase · Metabase · Figma · GitHub · Productboard · Jira · Google Cloud · dbt
+(conceptual) · Segment (conceptual)
+Mindset & Vision
+Builder at heart. I move fast, validate early, and turn raw data into living systems. My goal: build
+ventures that combine AI, automation, and human behavior to transform how industries operate.

@@ -1,0 +1,169 @@
+
+==================================================
+EXTRACTED FROM: Untitled document (2).pdf
+PAGES: 7
+==================================================
+
+
+
+IIM.life 
+Google Search & Landing Page Conversion Strategy 
+استراتژی تبلیغات جستجو و لندینگ پیج 
+ 
+1. Objective | هدف 
+English فارسی 
+Design and launch a search-led conversion 
+system that captures existing intent first, 
+produces clean performance signals, and scales 
+methodically to broader audiences. 
+طراحی و اجرای یک سیستم تبدیل مبتنی بر سرچ 
+که ابتدا تقاضای آماده را جذب کند،  یداده تمیز 
+تولید کند و سپس  صورتبه  شدهکنترل به 
+مخاطبان  ترگسترده توسعه یابد. 
+This is a performance system, not a branding 
+exercise. 
+این یک سیستم پرفورمنس است، نه برندسازی. 
+ 
+2. Core Principle | اصل راهبردی 
+English فارسی 
+One intent stage per asset. One message per 
+page. One KPI per campaign. 
+یک مرحله نیت برای هر دارایی. یک پیام برای هر 
+صفحه. یک KPI برای هر کمپین. 
+Education and conversion are sequenced, not 
+mixed. 
+آموزش و تبدیل  بندیمرحله  شوند،می نه ترکیب. 
+
+ 
+3. Audience Segmentation | تفکیک مخاطب 
+Segment A — Decision-Adjacent (Phase 1) 
+بخش A — نزدیک به تصمیم )فاز ۱) 
+English فارسی 
+Married / planning a child, already considering 
+birth abroad, anxious about making a mistake. 
+متأهل یا در حال  ریزیبرنامه برای فرزند، در حال 
+بررسی تولد خارج از کشور، نگران اشتباه پرهزینه. 
+Actively searching for confirmation or correction.  دنبالبه تأیید یا اصلاح تصور خود هستند. 
+Segment B — Uncertain / Exploratory (Phase 2) 
+بخش B — مردد / کنجکاو )فاز ۲) 
+English فارسی 
+Curious, unsure whether birth citizenship is 
+even real. 
+کنجکاو، نامطمئن از اینکه شهروندی با تولد 
+ً
+واقعا 
+وجود دارد یا نه. 
+Higher volume, lower immediate intent. حجم بالا، نیت تبدیل  تر.پایین 
+ 
+4. Funnel Architecture | معماری قیف 
+English فارسی 
+
+Phase 1: High-Intent Search → Decision LP → 
+Lead 
+فاز ۱: سرچ با نیت بالا ← لندینگ تصمیم ← لید 
+Phase 2: Exploratory Search → Reality Primer → 
+Decision LP → Lead 
+فاز ۲: سرچ اکتشافی ← صفحه  سازیشفاف ← 
+لندینگ تصمیم ← لید 
+No mixed roles per page. هر صفحه فقط یک نقش. 
+ 
+5. Why We Start with Phase 1 | چرا از فاز ۱ شروع  کنیممی 
+English فارسی 
+Lowest CAC, fastest feedback, cleanest 
+attribution. 
+کمترین CAC،  ترینسریع فیدبک،  ترینشفاف 
+اتریبیوشن. 
+Awareness first would burn budget and hide 
+errors. 
+شروع با آگاهی بودجه را  سوزاندمی و خطاها را پنهان 
+ کند.می 
+ 
+6. Google Ads — Phase 1 Setup | تنظیمات گوگل ادز — فاز ۱ 
+English فارسی 
+Search only. No Display. No Performance Max. فقط سرچ. بدون دیسپلی. بدون Performance 
+Max. 
+
+1 Campaign / 1 Ad Group / 1 LP / 1 
+Conversion. 
+یک کمپین / یک ادگروه / یک LP / یک کانورژن. 
+Keywords (Exact / Phrase) | کلمات کلیدی 
+English فارسی 
+Decision-intent queries expressing 
+uncertainty and risk. 
+ هایکوئری  محورتصمیم با عدم قطعیت و ریسک. 
+— شهروندی فرزند با تولد، تولد فرزند و شهروندی، تابعیت فرزند از 
+طریق تولد، آیا تولد منجر به شهروندی  شودمی 
+Negative Keywords | کلمات منفی 
+English فارسی 
+Eliminate passport-shopping 
+noise. 
+حذف ترافیک  محورپاسپورت و  کیفیت.کم 
+— خرید، قیمت، ارزان، تضمینی،  گذاری،سرمایه پاسپورت فوری، بهترین، 
+سریع 
+ 
+7. Decision Landing Page (Phase 1) | لندینگ تصمیم )فاز ۱) 
+English فارسی 
+
+Purpose: force a binary decision — “Does this 
+path make sense for me?” 
+هدف: اجبار به تصمیم دوگانه — »این مسیر برای 
+من منطقی هست یا نه؟« 
+Not education. Not selling citizenship. نه آموزش عمومی، نه فروش شهروندی. 
+LP Structure | ساختار LP 
+English فارسی 
+Above the fold: assumption-breaking headline + single 
+CTA. 
+بالای صفحه: 
+ِ
+تیتر
+ شکستن فرض + یک 
+CTA. 
+Middle: reality framing, who it’s for / not for. میانه:  ها،واقعیت برای چه کسانی هست / 
+نیست. 
+Trust: FAQ-style clarity, disclaimer. اعتماد:  وپاسخپرسش شفاف، دیسکلیمر. 
+CTA: Feasibility Check (minimal form). CTA: بررسی  پذیریامکان )فرم حداقلی). 
+Rules | قوانین: 
+No header nav · No HP link · Footer: Privacy / Terms only 
+بدون منو · بدون لینک به صفحه اصلی · فوتر: فقط قوانین 
+ 
+8. Measurement & Kill Rules | سنجش و قوانین توقف 
+English فارسی 
+
+Primary KPI: Cost per qualified lead. KPI اصلی: هزینه هر لید واجد شرایط. 
+Ignore: time on page, scroll, bounce. نادیده: زمان، اسکرول، بانس. 
+Predefined CPC / CPA ceilings. سقف از پیش  شدهتعیین CPC / 
+CPA. 
+If it fails, kill or replace. در صورت شکست، حذف یا جایگزینی. 
+ 
+9. Phase 2 — Reality Primer Page | فاز ۲ — صفحه  سازیشفاف 
+English فارسی 
+Answers: “Is birth citizenship real or 
+misinformation?” 
+پاسخ به: »شهروندی با تولد واقعیت دارد یا 
+نه؟« 
+Short, conceptual, corrective. کوتاه، مفهومی، اصلاحی. 
+Single CTA → Decision LP. یک CTA → لندینگ تصمیم. 
+ 
+10. Phase 2 — Ads | تبلیغات فاز ۲ 
+English فارسی 
+
+Exploratory keywords, broader intent. کلمات اکتشافی با نیت 
+ تر.گسترده 
+KPIs: CTR, click-through to LP. KPIها: CTR و انتقال به LP. 
+ 
+11. Phase 3 — Scale | فاز ۳ —  پذیریمقیاس 
+English فارسی 
+Triggered only after Phase 1 & 2 validation. فقط پس از اعتبارسنجی فاز ۱ و ۲. 
+Corridor LPs, country primers, retargeting. LPهای کریدوری، پرایمر کشوری، ریتارگتینگ. 
+ 
+12. Final Positioning |  بندیجمع 
+English فارسی 
+We are running controlled experiments with 
+predefined kill criteria — and scaling only what 
+survives. 
+ما  هایآزمایش  شدهکنترل با معیار توقف مشخص 
+اجرا  کنیممی و فقط آنچه جواب  دهدمی را توسعه 
+ دهیم.می 
+ 
+End of document. 
+ 

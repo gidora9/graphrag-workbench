@@ -1,0 +1,72 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Adjoe_Senior_Product_Owner_CV_Updated.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Senior Product Owner | AdTech, DSP & ML-Driven Campaign Optimization
+Istanbul, Türkiye | e.eskandari@gmail.com | linkedin.com/in/eeskandari
+Profile
+Senior Product Owner and former founder with 10+ years of experience building and scaling data-centric
+AdTech and SaaS platforms connecting users, developers, and brands through automation and first-party
+intelligence. Led end-to-end delivery of AdTech data platforms handling 2M monthly ad and event
+requests across 20+ supply partners, blending campaign optimization, API integration, and ML-driven
+performance automation with business strategy.
+Core Strengths
+Product Ownership: Roadmapping · Feature Prioritization · KPI Ownership · Stakeholder Alignment
+AdTech & DSP: Campaign Management · Optimization Algorithms · Bidding Systems · Rewarded Ads ·
+APIs · Attribution · A/B Testing
+Technical Collaboration: Agile/Scrum · SQL · REST/gRPC APIs · ML Model Integration · Dashboard
+Development
+Leadership: Cross-Functional Team Management · 0→1 Launches · Process Optimization · Mentorship
+Experience
+Founder & Product Owner | GameScrobbler (GS) — Istanbul (2022–Present)
+• Built a first-party data and real-time API platform bridging gaming ecosystems, similar to rewarded ad
+and offerwall environments, leveraging behavioral intelligence and event pipelines for segmentation and
+campaign optimization.
+• Introduced ML-based dashboards and engagement loops that improved prediction accuracy by 30%.
+• Managed 3 cross-functional teams (engineering, data, design) with agile sprints and KPI-based
+roadmaps.
+• Collaborated with publishers to test rewarded engagement models and in-game incentive mechanics,
+aligning with monetization and retention strategies.
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul
+(2020–2021)
+• Owned roadmap for a global data-collection and routing platform powering advertising and survey
+campaigns for Fortune 500 clients.
+• Designed automated pipelines for real-time ad-performance data ingestion and bidding workflows,
+cutting latency by 40%.
+• Managed product operations, P&L; (~$2M annual turnover), and strategic roadmap alignment between
+commercial and engineering teams.
+Co-Founder & COO | Research On Mobile (ROM) — Istanbul (2015–2019)
+• Led partnership development and traffic acquisition across leading offerwall and AdTech players
+(Tapjoy, ironSource, Fyber, AppLovin, etc.) for CPA and CPI buying.
+• Negotiated and managed traffic spend exceeding $100K per month across aggregators, programmatic
+networks, and affiliate partners.
+• Oversaw the entire traffic buying and optimization cycle — from deal negotiation to performance
+reporting — before delegating to an account management team.
+• Built and maintained relationships with 20+ supply-side partners, processing about 2M ad events
+monthly across global campaigns.
+• Scaled the network to 20+ countries, achieving >$1.5M annual revenue and eventual acquisition by Riwi
+Corp.
+• Drove a viral referral campaign (+10K users in 2 weeks, CAC < $0.10 vs $1 market average).
+Senior Product Manager | Riwi Corp — Toronto (2019–2020)
+• Spearheaded roadmap for advertiser dashboards and API integrations to optimize reach, frequency, and
+targeting.
+• Conducted A/B tests that increased reporting adoption by 25%.
+
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+Technical Stack & Tools
+SQL · APIs · Firebase · Metabase · Looker Studio · Figma · Productboard · Jira · BigQuery · Airflow
+(conceptual) · Amplitude · Snowflake · DSP / Campaign APIs (conceptual)
+Relocation & Availability
+Open to relocation to Hamburg with visa support · Available within 30 days of offer
+ATS Keywords
+Product Owner · AdTech · DSP · Programmatic Advertising · Rewarded Ads · Campaign Optimization ·
+Bidding · First-Party Data · Machine Learning · API Product Management · SQL · KPIs · A/B Testing ·
+Agile · Feature Roadmaps · Offerwall Partnerships

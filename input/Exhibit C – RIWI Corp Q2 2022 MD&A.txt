@@ -1,0 +1,457 @@
+
+==================================================
+EXTRACTED FROM: Exhibit C – RIWI Corp Q2 2022 MD&A.pdf
+PAGES: 13
+==================================================
+
+
+
+ RIWI CORP. 
+ MANAGEMENT’S DISCUSSION & ANALYSIS 
+ For the Three Months Ended June 30th, 2022 and 2021 
+ Containing information up to and including August 25th, 2022 
+ (Expressed in United States Dollars) 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ MANAGEMENT’S RESPONSIBILITY FOR FINANCIAL REPORTING 
+ Management’s  discussion  and  analysis  (“MD&A”)  details  RIWI  Corp.’s  (“RIWI”  or  the  “Company”)  operating 
+ results  and  financial  condition  as  at  and  for  the  three  months  ended  June  30,  2022  and  2021,  and  is  prepared  as 
+ at  August  25,  2022.  This  MD&A  should  be  read  in  conjunction  with  the  Company’s  unaudited  condensed  interim 
+ financial  statements  for  the  three  months  ended  June  30,  2022  and  the  notes  thereto  which  were  prepared  in 
+ accordance  with  International  Financial  Reporting  Standards  (“IFRS”)  (collectively  referred  to  as  the  “Financial 
+ Statements”),  which  are  available  on  www.sedar.com  .  Other  information  contained  in  this  document  has  also 
+ been prepared by management and is consistent with the data contained in the Financial Statements. 
+ Internal  control  over  financial  reporting  is  a  process  designed  to  provide  reasonable  assurance  regarding  the 
+ reliability  of  financial  reporting  and  the  preparation  of  the  financial  statements  for  external  purposes  in 
+ accordance  with  IFRS.  The  Company’s  certifying  Officers,  based  on  their  knowledge,  having  exercised 
+ reasonable  diligence,  are  also  responsible  to  ensure  that  these  filings  do  not  contain  any  untrue  statement  of  a 
+ material  fact  or  omit  to  state  a  material  fact  required  to  be  stated  or  that  is  necessary  to  make  a  statement  not 
+ misleading  in  light  of  the  circumstances  under  which  it  was  made,  with  respect  to  the  period  covered  by  these 
+ filings,  and  these  Financial  Statements  together  with  the  other  financial  information  included  in  these  filings  fairly 
+ present  in  all  material  respects  the  financial  condition,  results  of  operations  and  cash  flows  of  the  Company,  as 
+ of the date of and for the periods presented in these filings. 
+ The  Board  of  Directors  approves  the  Financial  Statements  and  MD&A  and  ensures  that  management  has 
+ discharged  its  financial  responsibilities.  The  Board’s  review  is  accomplished  principally  through  the  Audit 
+ Committee, which meets periodically to review all financial reports, prior to filing. 
+ CAUTION REGARDING FORWARD-LOOKING INFORMATION 
+ This  MD&A  contains  forward-looking  information,  future-oriented  financial  information,  or  financial  outlooks 
+ (collectively,  “forward-looking  information”),  which  includes  disclosure  regarding  possible  events,  conditions  or 
+ financial  performance  that  is  based  on  assumptions  about  future  economic  conditions  and  courses  of  action. 
+ Often,  but  not  always,  forward-looking  information  can  be  identified  by  the  use  of  words  such  as  “plans”,  “seeks,” 
+ “expects”  or  “does  not  expect”,  “is  expected”,  “estimates”,  “intends”,  “anticipates”,  “projects”,  “budgets”, 
+ “forecasts”,  “does  not  anticipate”,  “believes”,  “objective”,  “strives”  or  variations  of  such  words  and  phrases,  or 
+ statements  that  certain  actions,  events  or  results  “may”,  “could”,  “would”,  “might”  or  “will”  be  taken,  occur  or  be 
+ achieved. 
+ Should  one  or  more  of  these  risks  or  uncertainties  materialize,  or  should  assumptions  underlying  the 
+ forward-looking  information  prove  incorrect,  actual  results,  performance  or  achievement  may  vary  materially  from 
+ those  expressed  or  implied  by  the  forward-looking  information  contained  in  this  MD&A.  These  risk  factors 
+ should  be  carefully  considered  and  readers  are  cautioned  not  to  place  undue  reliance  on  forward-looking 
+ information,  which  speaks  only  as  of  the  date  of  this  MD&A.  All  subsequent  forward-looking  information 
+ attributable  to  the  Company  herein  is  expressly  qualified  in  its  entirety  by  the  cautionary  statements  contained  in 
+ or  referred  to  herein.  The  Company  does  not  undertake  any  obligation  to  release  publicly  any  revisions  to  this 
+ forward-looking  information  to  reflect  events  or  circumstances  that  occur  after  the  date  of  this  MD&A  or  to  reflect 
+ the occurrence of unanticipated events, except as may be required under applicable securities laws. 
+ ADDITIONAL INFORMATION 
+ Additional  information  relating  to  the  Company  is  available  from  the  SEDAR  website  at  www.sedar.com  ,  under 
+ the Company’s profile. 
+ 2 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ RIWI OVERVIEW 
+ RIWI  Corp.  (“RIWI”  or  the  “Company”)  is  a  public  company  and  its  shares  are  all  common  shares  listed  on  the 
+ TSX  Venture  Exchange  (TSXV:  RIWI).  The  Company  was  incorporated  under  the  laws  of  Canada  pursuant  to 
+ the  Canada  Business  Corporations  Act  on  August  17,  2009.  The  Company’s  head  office  is  located  at  180  Bloor 
+ Street  West,  Suite  1000,  Toronto,  Ontario,  M5S  2V6  and  RIWI’s  registered  office  is  located  at  Suite  1700,  Park 
+ Place, 666 Burrard Street, Vancouver, BC, V6C 2X8. 
+ RIWI’s  vision  is  to  be  the  most  trusted  and  transparent  source  of  global  data.  To  be  the  most  trusted  and 
+ transparent  source  of  global  data  means,  first,  that  RIWI  needs  to  monetize  data  sets  that  our  customers 
+ consider  mission-critical.  Second,  it  means  that  we  need  to  lead  the  global  data  industry  in  our  transparency  in 
+ terms  of  how  we  collect  and  aggregate  new,  impactful  data  feeds.  Third,  it  means  we  need  to  leverage  our 
+ proven  strengths  and  our  unique  pedigree  –  RIWI’s  clients  include  some  of  the  most  data-sophisticated  groups 
+ in  the  world  and  our  work  has  been  peer-reviewed  in  top  academic  journals  –  to  build  new  subscription-based 
+ products  that  meet  our  clients’  growing  and  diverse  data  needs.  RIWI’s  offerings  will  expand  to  include  other 
+ types  of  alternative  data  which  offer  new  and  combined  products  and  data  solutions  for  customers.  As  we  move 
+ forward  towards  fulfilling  our  vision,  RIWI  will  offer  customers  both  a  portal  platform  from  which  they  can  source 
+ all  of  their  essential  data  needs  as  well  as  a  technology  and  analytics  tool  suite  within  the  platform  to  analyze 
+ and  manage  the  diverse  data  which  they  can  purchase.  As  the  global  data  market  is  large  and  growing  rapidly  – 
+ and  the  requirements  across  different  customer  segments  are  considerable  –  RIWI  has  chosen  to  focus  on  three 
+ main  customer  segments:  (i)  International  Development,  (ii)  Financial  Services,  and  (iii)  Public  Health  and  Health 
+ Systems.  In  addition,  we  have  been  receiving  interest  in  a  new  customer  segment  called  Public  Policy  and 
+ Macroeconomics  that  we  are  exploring.  Management  has  selected  these  customer  segments  based  on 
+ feedback  from  our  clients,  the  strategic  review  completed  in  the  fourth  quarter  of  2021,  the  competitive 
+ landscape  and  addressable  markets,  and  the  opportunity  for  RIWI’s  existing  technology  to  win  annual  recurring 
+ revenues in these segments. 
+ The  Company  currently  provides  a  global  trend-tracking  and  prediction  technology  platform.  Our  patented, 
+ cloud-based  software  solutions  provide  a  global  digital  intelligence  platform  to  clients  seeking  real-time 
+ consumer  and  citizen  sentiment  data  anywhere  in  the  world  in  order  to  improve  business  performance,  evaluate 
+ program  effectiveness,  enhance  customer  engagement,  identify  misinformation  online,  and  monitor  emerging 
+ threats  before  these  threats  escalate  to  violence.  After  the  close  of  Q2,  RIWI  also  announced  the  acquisition  of 
+ Research  on  Mobile  (ROM),  a  platform  that  matches  survey  respondents  with  global  survey  marketplaces  –  such 
+ as  Dynata,  Netquest,  Cint  and  Lucid  –  dynamically,  offering  RIWI  new,  transactional  revenues.  This  acquisition 
+ will enhance our platform enabling us to support incentivized surveys and longer form surveys. 
+ The  RIWI  platform  empowers  customers  to  not  only  collect  sentiment  data,  but  also  to  perform  message  testing 
+ and  conduct  marketing  campaigns  that  reach  people  online  who  are  not  engaged  by  traditional  digital  marketing 
+ campaigns.  RIWI  has  several  unique  selling  propositions,  including:  (i)  an  option  to  avoid  the  collection,  storage 
+ and  transfer  of  personally  identifiable  information  (“PII”),  (ii)  the  ability  to  be  in  field  collecting  data,  in  any 
+ country,  within  12  to  24  hours  to  support  rapid-response  needs,  and  (iii)  data  science  capabilities  and  real-time 
+ dashboard analytics for multiple users dispersed across the globe at any client organization. 
+ RIWI  customers  can  benefit  from  not  only  leveraging  our  platform  for  data  collection  and  analytics,  but  can  also 
+ benefit  from  buying  data-only  RIWI  subscriptions.  More  RIWI  customers  are  leveraging  RIWI  in  a 
+ Data-as-a-Service  (DaaS)  model  as  we  build  out  our  global  database  of  information  and  develop  more  long-term 
+ subscription-based  trackers.  The  RIWI  platform  currently  stores  over  2  billion  responses  from  interviewees  to 
+ RIWI  surveys  across  229  countries.  In  keeping  with  our  vision  to  be  the  world’s  most  trusted  and  transparent 
+ source  of  global  data,  much  of  the  RIWI  data  now  being  collected  can  be  monetized  for  broader 
+ commercialization  with  new  clients  over  time.  Some  illustrative  examples  of  work  undertaken  in  the  second 
+ quarter  of  2022  include:  data  predicting  the  outcome  of  elections  in  Israel,  data  on  changing  military  tensions 
+ between  countries,  data  on  media  literacy,  information  on  the  online  ‘gig’  economy,  and  on  the  displacement  of 
+ people in Ukraine. 
+ 3 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 1.  RIWI Highlights for the three months ended June 30, 2022 – in US Dollars: 
+ a) 
+ RIWI  completed  the  acquisition  of  Research  on  Mobile  (ROM)  on  July  1,  2022.  ROM  is  a  leading 
+ research  platform  that  profiles  survey  respondents  and  dynamically  matches  them  to  global  research 
+ marketplaces  from  which  commercial  customers  buy  data.  Under  the  terms  of  the  arms-length 
+ transaction,  a  total  purchase  consideration  of  USD  $525,000  of  cash  (“Consideration”)  was  agreed  to  in 
+ connection  with  the  closing  of  the  transaction.  The  Consideration  includes  $125,000  held  back  for  any 
+ post-closing  adjustments.  In  addition,  the  sellers  of  ROM  may  be  entitled  to  receive  additional  earn-out 
+ payments  subject  to  the  satisfaction  of  certain  revenue  and  profitability  targets  as  well  as  employee 
+ retention  targets  for  the  2022,  2023  and  2024  RIWI  fiscal  years  .  There  is  no  ROM  revenue  included  in 
+ RIWI’s  second  quarter  results,  however,  there  are  $78,375  costs  that  are  included  as  part  of  the 
+ transaction.  ROM-related  revenues  will  be  included  in  the  Company’s  results  beginning  the  third  quarter 
+ of 2022. 
+ b) 
+ RIWI  signed  12  new  client  contracts  in  the  three  months  ended  June  30,  2022,  including  contract 
+ signings with three new RIWI customers. 
+ c) 
+ RIWI  earned  $368,680  in  revenues  in  the  second  quarter  of  2022  compared  to  $1,260,250  for  the  three 
+ months  ended  June  30,  2021.  As  a  result  of  the  Company’s  strategic  focus  in  2022  of 
+ subscription-based  products  and  annual  recurring  revenues  in  addition  to  traditional  projects,  RIWI’s 
+ year-over-year  decrease  in  revenue  for  the  three  months  ended  June  30,  2022  is  partially  due  to  the 
+ transition  aw  ay  from  shorter-term,  project-based  initiatives  which  historically  enabled  the  Company  to 
+ recognize  a  majority  of  revenues  for  most  projects  soon  after  any  project  launch.  The  second  quarter's 
+ revenue  decline  was  also  affected  by  a  delay  in  revenue  recognition  of  approximately  $400,000,  which, 
+ historically,  has  been  recognized  by  the  Company  in  the  second  quarter,  but  this  year  did  not  meet  the 
+ IFRS  revenue  recognition  criteria  as  of  June  30,  2022.  Management  fully  expects  to  recognize  this 
+ revenue  since  the  work  with  this  customer  is  ongoing  in  nature.  The  decrease  is  also  a  result  of  the 
+ departure  from  the  Company  of  salespeople  selling  mainly  pro  fessional  services  projects;  the  Company 
+ continues  to  recruit  new  sales  and  technical  personnel  focused  on  selling  data  products  and 
+ subscriptions.  The  Company  remains  committed  to  increasing  its  customer  base  and  recurring  revenue 
+ streams,  along  with  focusing  on  sales  activities  and  building  out  our  sales-focused  partnership 
+ ecosystem  to  win  new,  long-term  and  recurring  business.  This  decrease  in  revenues  –  and  technical 
+ costs  incurred  in  the  development  of  subscription-based  products  –  resulted  in  a  net  loss  of  $658,318  for 
+ the  three  months  ended  June  30,  2022,  as  compared  to  a  net  profit  of  $45,241  for  the  three  months 
+ ended June 30, 2021. 
+ d) 
+ For  the  period  ending  June  30,  2022  the  Company’s  total  cash  and  cash  equivalents  were  $3,235,078, 
+ as  compared  to  $3,257,147  for  the  period  ending  June  30,  2021,  representing  a  year-over-year 
+ decrease  of  $22,069,  a  decrease  of  less  than  1  percent.  Prepaid  expenses  and  other  current  assets 
+ include an amount of $379,604 wired for the upfront payment of ROM on July 1, 2022. 
+ e) 
+ RIWI  received  a  substantial  increase,  as  compared  to  the  quarter  ending  June  30,  2021,  in  high-profile 
+ international  recognition  –  such  as  peer-reviewed  academic  journals,  client  reports  and  in  international 
+ media  –  for  its  innovative  technology,  data  quality,  and  access  to  global  data.  This  external  recognition 
+ includes:  a  validation  of  RIWI’s  technology  as  an  effective  system  to  collect  Covid-19  vaccination  rates  in 
+ real-time  across  the  United  States,  co-authored  by  researchers  at  Johns  Hopkins  University  and  Emory 
+ University,  published  in  the  Journal  of  Medical  Internet  Research  ;  academic  papers  published  in  PLOS 
+ One  and  the  International  Journal  for  Quality  in  Health  Care  ;  a  study  published  in  the  British  Medical 
+ Journal  Global  Health  ,  authored  by  researchers  at  Boston  University;  reports  published  by  The  Wilson 
+ Center,  The  Carter  Center,  and  the  UN  World  Food  Programme;  a  public  event  hosted  by  The  Center  for 
+ Strategic  and  International  Studies;  and,  articles  on  RIWI  in  international  media,  including  Business 
+ Insider  ,  Bloomberg  ,  The  Diplomat  ,  Yahoo  News  ,  bne  IntelliNews  ,  China  Times  ,  Deutsche  Welle  ,  The 
+ Toronto Star  , and  Harvard Business Review  . 
+ 4 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 2.  Evolving Revenue Mix 
+ On  July  1,  2022  RIWI  announced  that  it  had  completed  the  acquisition  of  Research  on  Mobile  (ROM).  ROM  was 
+ a  strategic  acquisition  for  many  reasons,  including  its  ability  to  provide  RIWI  with  a  new  revenue  stream  that  is 
+ being categorized as transactional revenue.  RIWI now enjoys three revenue types: 
+ a) 
+ Recurring  revenue  :  Recurring  revenue  is  revenue  where  a  customer  subscribes  to  either  the  RIWI 
+ platform  or  to  one  of  its  data  products.  Customers  typically  sign  up  for  12  months  or  more  or  have  no 
+ predetermined  end  date.  Revenue  in  this  category  is  recognized  every  month  and  is  highly  repeatable. 
+ RIWI  has  been  focused  on  developing  this  revenue  stream  through  the  development  of  new  data 
+ products.  This  revenue  stream  is  also  highly  scalable  as  data  is  sourced  once  and  can  be  resold  often  to 
+ multiple  clients.  The  margins  on  this  type  of  revenue  also  increases  with  every  sale  as  there  is  no 
+ additional  marginal  cost  (except  sales-associated  costs)  and  the  fixed  costs  can  be  dispersed  across  a 
+ larger customer pool. 
+ b) 
+ Project-based  revenue  :  Project-based  revenue  is  the  traditional  RIWI  revenue  where  customers 
+ purchase  RIWI  to  do  a  specific  survey  or  digital  message  test  in  one  or  more  countries.  Project-based 
+ revenue  can  vary  from  short-term  projects  (e.g.  less  than  one  month)  to  longer  projects  that  have 
+ multiple  waves  or  milestones  and  can  last  over  nine  months.  This  type  of  revenue  scales  with  both 
+ people  and  technology,  thus  requiring  RIWI  to  hire  more  staff  when  there  is  a  large  uptick  in  business. 
+ RIWI  now  has  a  sales-focused  customer  service  team  that  is  incentivized  to  quickly  transition 
+ project-based revenue into recurring revenue, depending on the needs and budget of the client. 
+ c) 
+ Transactional  revenue  :  Transactional  revenue  refers  to  the  revenue  arising  from  the  ROM  acquisition 
+ and  is  generated  every  time  the  ROM  system  matches  a  survey  respondent  to  an  active  survey 
+ commissioned  on  one  of  the  global  research  marketplaces  and  the  respondent  completes  the  survey. 
+ Transactional  revenue  scales  by  increasing  the  conversion  rates  of  survey  respondents  being  matched 
+ and  completing  specific  surveys  as  well  as  by  increasing  our  respondent  pool.  To  quantify  the 
+ opportunity  for  scale,  the  ROM  platform  currently  matches  approximately  1,800  respondents  per  day  out 
+ of  the  approximately  100,000  survey  responses  requested.  Increasing  the  conversion  rates  as  well  as 
+ integrating  more  respondents  into  the  platform  as  well  as  more  survey  marketplaces  will  greatly  increase 
+ revenue without the need for associated labor. 
+ RIWI  has  a  goal  of  achieving  a  revenue  mix  that  is  60  percent  recurring,  20  percent  transactional  and  20  percent 
+ project-based  by  the  end  of  2024.  No  ROM  revenue  was  recognized  in  the  second  quarter  of  2022,  and, 
+ therefore.  all  revenue  in  the  second  quarter  was  either  recurring  or  project-based.  As  noted  in  our  MD&A  for  the 
+ first  quarter  of  2022,  RIWI  began  the  process  of  converting  project-based  revenue  to  recurring  revenue  in  the 
+ current  fiscal  year  and  thus  the  majority  of  revenue  today  is  still  project-based  revenue,  however  the  mix  is 
+ changing. 
+ 3.  Roadmap for Growth 
+ As  management  noted  in  its  MD&A  for  the  2021  fiscal  year  end,  RIWI  has  a  combined  organic  and 
+ acquisition-focused  growth  strategy  that  is  centered  around  being  the  most  trusted  and  transparent  source  of 
+ global  data  for  our  customers.  This  requires  us  to  build  a  fully  integrated  data  platform,  including  new  analytics 
+ tools  and  combined  data  feeds,  with  the  goal  of  providing  an  excellent  user  experience  to  all  of  our  customers. 
+ As  we  grow  our  business  through  our  organic  and  a  value-based  acquisition  strategy,  RIWI  will  be  collecting  a 
+ critical  set  of  important  new  customers  that  will  enable  us  to  upsell  and  cross-sell  new  data  products,  thereby 
+ significantly  reducing  our  current  costs  associated  with  new  customer  acquisition.  This  strategy  also  helps  us 
+ increase the lifetime value of an increasingly diverse customer base. 
+ RIWI’s  strategy  for  organic  growth  includes  hiring  key  industry  experts  in  the  verticals  that  we  have  chosen  to 
+ focus  on  as  well  as  building  subscription  products  that  will  enable  RIWI  to  build  longer-term  recurring  and 
+ repeatable  revenue.  In  terms  of  industry  experts,  RIWI  has  promoted  Danielle  Goldfarb  from  our  research 
+ department  to  lead  a  new  customer  segment  for  us,  namely,  the  Public  Policy  and  Macroeconomic  customer 
+ segment.  This  move  has  already  resulted  in  significant  pipeline  generation.  The  current  labor  marketplace  has 
+ made  the  recruitment  and  retention  of  technically-oriented  personnel  and  industry  experts  challenging  for  many 
+ technology  companies,  including  RIWI.  While  we  are  focused  on  identifying  and  hiring  new  sales  staff,  the  labor 
+ market is hyper-competitive and recruitment has been slower than expected. 
+ 5 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 3.      Roadmap for Growth (continued) 
+ On  the  subscription  product  side  of  our  business,  we  continue  to  evaluate  new  potential  subscription  products  as 
+ well  as  invest  in  our  Compass  series  of  indices  with  our  partner  David  Woo,  a  macroeconomist  who  works  with 
+ RIWI  to  sell  into  the  Financial  Services  customer  segment.  RIWI  expects  the  Compass  data  series  to  be 
+ profitable on a run-rate basis by the end of the fourth quarter, which is on schedule with our strategic plan. 
+ For  growth  through  acquisition,  RIWI  is  focused  on  both  acquisitions  that  are  accretive  in  value  to  shareholders, 
+ and  on  existing  customer  value-add  acquisitions.  The  ROM  acquisition  adds  significant  value  to  existing 
+ customers  by  providing  RIWI  with  additional  survey  sample  and  support  for  longer,  incentivized  surveys  that 
+ appeal  to  a  large  number  of  clients  in  our  priority  customer  segments.  To  that  end,  a  first  integration  between  the 
+ RIWI  and  ROM  platforms  has  already  occurred,  enabling  a  significant  RIWI  customer  to  leverage  the 
+ respondents  from  the  ROM  system.  In  terms  of  broader  mergers  and  acquisition  (M&A)  activity,  RIWI  continues 
+ to  evaluate  other  accretive  acquisitions  and  is  currently  in  discussions  with  several  other  potential  acquisitions  at 
+ various  stages  of  our  M&A  process,  some  of  which  have  the  possibility  to  close  in  the  2022  fiscal  year. 
+ Management  can  offer  no  assurances,  however,  that  the  Company  will  be  able  to  complete  any  additional 
+ acquisitions  in  the  current  calendar  year  as  our  M&A  roadmap  requires  careful  evaluation  of  all  potential 
+ acquisitions. 
+ 4.  Platform: Innovating and Investing Strategically to Drive Future Growth 
+ RIWI’s  patented  Random  Domain  Intercept  Technology,  which  powers  our  current  platform,  continues  to  be  a 
+ differentiator  for  us  and  enables  us  to  win  large  projects,  especially  in  countries  such  as  China,  and  smaller 
+ countries  across  the  world  that  are  extremely  challenging  for  most  of  our  competitors  to  access.  Our  customers 
+ consistently provide us very positive feedback on the results we deliver with our platform. 
+ Our  platform  was  designed  for  very  large  high-touch  full-service  customers  that  requested  ongoing  professional 
+ services.  However,  the  market  is  changing  and  many  of  our  customers,  especially  in  the  academic  sector  and  in 
+ the  public  policy  research  sectors,  want  to  leverage  our  technology,  but  wish  to  use  it  in  a  more  self-service 
+ fashion  or  use  it  in  a  manner  that  integrates  seamlessly  into  their  other  applications.  These  requirements  and 
+ several  others  have  led  RIWI  to  the  conclusion  that  we  need  to  both  maintain  our  current  platform  and  build  a 
+ new  RIWI  2.0  platform  with  scalability,  multi-tenant  architecture  and  deep  integration  capabilities.  This  new 
+ platform  has  been  designed  to  work  in  conjunction  with  the  ROM  platform  and  we  expect  a  first  release  of  the 
+ new  platform  to  be  in  use  with  customers  in  the  fourth  quarter  of  2022,  and  with  all  functionality  and  all 
+ customers  fully  migrated  to  this  new  platform  by  the  end  of  2023.  A  vision  of  what  is  coming  within  the  RIWI 
+ platform is illustrated below: 
+ 6 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 4.  Platform: Innovating and Investing Strategically to Drive Future Growth (continued) 
+ Feedback  from  our  customers  tells  us  that  if  we  can  deliver  more  of  this  enriched  functionality,  our  customers  will 
+ be  willing  to  license  not  only  our  data,  but  also  license  access  to  our  platform,  providing  RIWI  both  high-margin 
+ SaaS-based revenue and Data-as-a-Service (“DaaS”) revenue – both of which fall within the recurring revenue. 
+ category  of  revenues  described  earlier  in  this  MD&A.  For  this  reason,  RIWI  is  investing  in  growing  our  product 
+ development  team  in  order  to  better  support  our  customers  and  to  win  new  customers.  Shareholders  should 
+ therefore  expect  to  see  an  increase  in  research  and  development  costs  in  the  coming  quarters  as  we  increase 
+ resources devoted to building out new technical enhancements to our platform. 
+ RIWI  is  committed  to  moving  forward  and  accelerating  all  aspects  of  our  business  to  fulfill  our  vision  to  be  the 
+ world’s  most  trusted  and  transparent  source  of  global  data.  This  path  means:  (i)  an  unwavering  commitment  to 
+ excellence  in  customer  service,  (ii)  building  out  the  RIWI  technical  and  sales  team,  (iii)  innovating  our  platform, 
+ (iv) bringing new data products to market and (v) exploring strategic M&A. 
+ FINANCIAL RESULTS (in U.S. Dollars) 
+ The following is a discussion of the results of operations of the Company for the three months ended June 30, 
+ 2022 and 2021. The results should be read in conjunction with the unaudited interim condensed financial 
+ statements for the three months ended June 30th, 2022. 
+ 7 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 1.  Operating Expenses 
+ (a)  General and Administrative Expenses 
+ (b)  Sales and Marketing Expenses 
+ (c)  Technology Expenses 
+ (d)  Government Subsidies 
+ The  governments  of  various  jurisdictions  have  approved  legislation  and  taken  actions  intended  to  aid 
+ businesses  that  have  been  adversely  impacted  by  COVID-19.  Some  of  these  actions  include  providing 
+ subsidies  to  eligible  entities  to  subsidize  or  offset  qualifying  expenses.  RIWI  received  $4,966  of  the 
+ Canadian  Emergency  Wage  Subsidy  (“CEWS”)  subsidy  from  the  Government  of  Canada  during  the  six 
+ months  ended  June  30,  2021,  and  have  recorded  the  CEWS  subsidy  received  as  a  reduction  in  general 
+ and  administrative  expense  of  $1,300,  as  a  reduction  in  sales  and  marketing  expenses  of  $3,143  and  as 
+ a  reduction  in  technology  expenses  of  $523.  RIWI  received  $2,549  of  the  Canadian  Emergency  Rent 
+ Subsidy  (“CERS”)  subsidy  from  the  Government  of  Canada  during  the  six  months  ended  June  30,  2021, 
+ and  have  recorded  the  CERS  subsidy  received  as  a  reduction  in  general  and  administrative  expense. 
+ Consulting and professional 
+ 8 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ 2.  Financial Performance for the three months ended June 30, 2022 and 2021 – in US Dollars: 
+ Revenues  are  fees  that  are  charged  to  customers  for  providing  digital  surveys  or  ad  tests  and  automated 
+ analytics  of  the  findings.  RIWI’s  revenue  for  the  three  months  ended  June  30,  2022  decreased  by  71  percent  or 
+ $891,570  representing  a  decline  from  $1,260,250  to  $368,680.  As  a  result  of  the  Company’s  strategic  transition 
+ to  subscription-based  products  and  annual  recurring  re  venues  and  the  departure  of  certain  sales  personnel, 
+ RIWI  missed  its  internal  revenue  targets  for  the  second  quarter  of  2022.  In  addition,  the  second  quarter's 
+ revenue  decline  was  also  affected  by  a  delay  in  revenue  recognition  of  approximately  $400,000,  which, 
+ historically,  has  been  recognized  by  the  Company  in  the  second  quarter,  but  this  year  did  not  meet  the  IFRS 
+ revenue  recognition  criteria  as  of  June  30,  2022.  Management  fully  expects  to  recognize  this  revenue  in  the 
+ current  calendar  year,  since  the  work  with  this  customer  is  ongoing  in  nature.  The  Company  remains  committed 
+ to  increasing  its  customer  base  and  recurring  revenue  streams,  along  with  focusing  on  sales  activities  and 
+ building  out  our  sales-focused  partnership  ecosystem  to  win  new  business.  At  this  time,  RIWI  expects  revenues 
+ to  be  lower,  relative  to  2021,  for  the  remainder  of  the  2022  fiscal  year  as  we  continue  to  rebuild  the  sales  team 
+ and lay the groundwork for a more scalable, high-margin platform in 2023. 
+ Total  operating  expenses  decreased  by  $93,138  for  the  three  months  ended  June  30,  2022  compared  to  the 
+ three months ended June 30, 2021.  The key expenses are summarized as follows: 
+ a) 
+ General  and  administrative  expenses  increased  by  $115,744  to  $552,880  during  the  three  months  ended 
+ June  30,  2022  as  compared  to  the  three  months  ended  June  30,  2021  related  to  cash  compensation  of 
+ $114,641  for  RIWI’s  independent  directors  with  the  addition  of  director-related  compensation  for  our  former 
+ CEO,  compared  to  cash  compensation  of  $83,291  for  the  same  period  in  2021.  Additionally,  in  the  second 
+ quarter  of  2022,  the  share-based  payment  expense  of  the  Company  has  increased  by  $34,171  compared  to 
+ the  second  quarter  of  2021.  Finally,  office  and  general  administrative  costs  have  increased  by  $36,197 
+ compared  to  the  second  quarter  of  2021  because  of  consulting  fees  for  administration  and  consulting  fees 
+ from  our  former  CEO.  Consulting  and  professional  fees  as  well  as  office  and  general  administrative  costs 
+ also include $78,375 related to the acquisition of July 1, 2022. 
+ b) 
+ Sales  and  marketing  expenses  decreased  by  $89,630  to  $305,021  during  the  three  months  ended  June 
+ 30,  2022  as  compared  to  the  three  months  ended  June  30,  2021.  Payroll  costs  and  sales-related 
+ commissions  decreased  in  the  second  quarter  of  2022  as  compared  to  the  second  quarter  of  2021,  as  a 
+ result  of  the  Company  having  ended  its  contractual  agreements  with  certain  sales  and  marketing  staff  and 
+ consultants.  RIWI  intends  to  hire  additional  sales  personnel  and  expects  this  expense  to  increase  in  the 
+ remainder  of  the  current  calendar  year  depending  on  how  quickly  RIWI  can  hire  exceptional  sales  talent. 
+ RIWI  is  committed  to  investing  in  new  sales  and  marketing  initiatives  in  order  to  build  annual  recurring 
+ revenues and subscription-based sales for new and existing customers. 
+ c) 
+ Technology  expenses  decreased  by  $119,252  to  $236,878  during  the  three  months  ended  June  30,  2022 
+ as  compared  to  the  three  months  ended  June  30,  2021.  Project-related  costs  decreased  in  the  second 
+ quarter of 2022 as compared to the second quarter of 2021, due primarily to lower revenue. 
+ RIWI’s  loss  before  interest  and  taxes  was  $726,103  for  the  three  months  ended  June  30,  2022,  as  compared  to 
+ the Company’s profit before interest and taxes of $70,978 for the three months ended June 30, 2021. 
+ RIWI’s  income  tax  recovery  for  the  three  months  ended  June  30,  2022  was  $58,582,  compared  to  an  expense  of 
+ $25,737  for  the  three  months  ended  June  30,  2021.  Prior  to  2022,  the  Company  assessed  income  tax  matters 
+ on an annual basis, and the Company had historical tax losses to use against any taxable income it generated. 
+ For  the  many  reasons  noted  earlier  in  this  MD&A,  RIWI  incurred  a  net  loss  of  $658,318  for  the  three  months 
+ ended  June  30,  2022,  as  compared  to  a  net  profit  of  $45,241  for  the  three  months  ended  June  30,  2021.  RIWI  is 
+ committed  to  investing  its  cash  reserves  to  recruit  new  sales  and  business  development  personnel  with  deep 
+ expertise  in  RIWI’s  priority  customer  segments,  and  to  recruit  technical  personnel  in  order  to  expand  the 
+ Company’s product suite for new recurring revenues and for enhanced functionality for our platform. 
+ 9 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ SUMMARY OF QUARTERLY RESULTS – in US Dollars: 
+ This is a summary of selected results for the eight most recently completed quarters  to June 30, 2022. 
+ RIWI  has  historically  had  strong  revenues  on  an  annual  basis  and,  as  noted  throughout  this  MD&A,  is  in  a 
+ strategic  transformational  process  to  rely  less  on  project-based  revenues  and  more  on  annual  recurring 
+ revenues  and  SaaS-based  subscription  products.  RIWI  continues  to  invest  in  sales  and  partnership  initiatives  to 
+ ensure long-term, predictable growth and strong gross margins. 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ As  at  June  30,  2022,  the  Company  had  working  capital  of  $3,658,682  as  compared  to  working  capital  of 
+ $4,464,062 as at December 31,  2021. 
+ Contractual Obligations and Commitments 
+ The  Company’s  head  office  currently  shares  space  with  a  third-party  firm,  and  RIWI  is  responsible  for  50  percent 
+ of  the  monthly  lease  payments.  The  Company’s  lease  payments  are  $4,394  p  er  month  and  the  office  lease 
+ expires on May 31, 2023. 
+ 10 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ CAPITAL STRUCTURE 
+ a)  Common Shares:  The Company has 18,004,428 issued  and outstanding common shares. 
+ b)  Stock Options:  The Company has 1,837,917 options outstanding. 
+ Common Shares on a Diluted Basis 
+ OFF-BALANCE SHEET ARRANGEMENTS 
+ The Company has no off-balance sheet arrangements. 
+ RELATED PARTY TRANSACTIONS 
+ For  the  six  months  ended  June  30,  2022,  the  Company  provided  cash  compensation  to  directors  in  the 
+ amount  of  $231,792  (2021  -  $169,462),  and  recognized  share-based  payment  expenses  of  $134,918 
+ (2021  -  $100,623)  for  stock  options  granted  to  the  independent  directors  and  executives.  Additionally, 
+ Neil  Seeman,  the  Company's  founder  and  non-executive  Chairman  of  the  Board,  is  also  acting  as  a 
+ consultant  for  the  Company  and  received  cash  compensation  of  $62,103  for  his  consulting  services  in 
+ the first six months ended June 30, 2022. 
+ 11 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ FINANCIAL INSTRUMENTS AND OTHER INSTRUMENTS 
+ As  at  June  30,  2022,  the  Company’s  financial  instruments  are  cash  and  cash  equivalents,  accounts  receivable, 
+ and  accounts  payable  and  accrued  liabilities.  The  carrying  values  of  these  financial  instruments  reflected  in  the 
+ statement  of  financial  position  are  carrying  amounts  and  approximate  their  fair  values  due  to  their  short-term 
+ nature.  These financial instruments are classified as follows: 
+ ●  Cash and cash equivalents – amortized cost 
+ ●  Accounts receivable – amortized cost 
+ ●  Accounts payable and accrued liabilities – other financial liabilities 
+ The  evaluation  of  the  financial  instruments  that  are  measured  subsequent  to  initial  recognition  at  fair  value  are 
+ grouped into Levels 1 to 3 based on the degree to which the fair value is observable. 
+ ● 
+ Level  1  of  the  fair  value  hierarchy  includes  unadjusted  quoted  prices  in  active  markets  for  identical 
+ assets or liabilities; 
+ ● 
+ Level  2  of  the  hierarchy  includes  inputs  that  are  observable  for  the  asset  or  liability,  either  directly  or 
+ indirectly; and 
+ ●  Level 3 includes inputs for the asset or liability that are not based on observable market data. 
+ The Company has no financial instruments measured at fair value through the Statement of Profit or Loss. 
+ The following is a discussion of the Company’s risk exposures: 
+ Credit  risk  is  the  risk  of  financial  loss  to  the  Company  if  a  customer  or  counterparty  to  a  financial  instrument  fails 
+ to  meet  its  contractual  obligations.  The  Company’s  trade  accounts  receivable  are  due  from  customers  and  are 
+ subject to normal credit risk.  The following table provides information regarding the aged trade receivables: 
+ At  each  period  end,  the  Company  reviews  the  collectability  of  outstanding  accounts  receivable  and  estimates  a 
+ credit  loss  provision.  The  specific  accounts  are  only  written  off  once  all  the  collection  avenues  have  been 
+ explored  or  when  legal  bankruptcy  has  occurred.  The  Company  has  a  $nil  balance  for  allowance  for  doubtful 
+ accounts as at June 30, 2022 and December 31, 2021. 
+ Liquidity  risk  is  the  risk  that  the  Company  will  not  be  able  to  meet  its  financial  obligations  as  they  are  due.  The 
+ Company  has  in  place  a  planning  and  budgeting  process  which  helps  determine  the  funds  required  to  ensure  the 
+ Company  has  the  appropriate  liquidity  to  meet  its  operating  and  growth  objectives.  The  Company’s  financial 
+ liabilities  consist  of  accounts  payable  and  accrued  liabilities  and  consist  of  invoices  payable  to  trade  suppliers  for 
+ online  advertising  technology  services,  server  hosting,  general  and  administrative,  and  other  expenses  and  are 
+ paid  within  one  year.  The  Company  expects  to  fund  these  liabilities  through  the  use  of  existing  cash  resources 
+ and its continuing operations. 
+ 12 
+
+ RIWI CORP. 
+ Management’s Discussion & Analysis 
+ For the Three Months ended June 30, 2022 and 2021 
+ FINANCIAL INSTRUMENTS AND OTHER INSTRUMENTS (continued) 
+ Market  risk  is  the  risk  that  changes  in  market  prices,  such  as  interest  rates  and  foreign  exchange  rates  will 
+ affect  the  Company’s  net  earnings  or  the  value  of  financial  instruments.  The  objective  of  the  Company  is  to 
+ manage and mitigate market risk exposures within acceptable limits, while maximizing returns. 
+ (i) 
+ Interest  rate  risk  :  The  Company  has  cash  balances  and  no  interest-bearing  debt,  and  is  not  exposed  to 
+ any significant interest rate risk. 
+ (ii) 
+ Foreign  currency  risk  :  The  Company’s  activities  are  conducted  in  foreign  jurisdictions;  the  majority  of  the 
+ Company’s  operating  expenses  are  in  Canadian  dollars;  and  a  portion  of  the  Company’s  cash  and  cash 
+ equivalents  is  denominated  in  Canadian  dollars.  The  Company  has  not  entered  into  foreign  exchange 
+ rate contracts to mitigate this risk. 
+ As  at  June  30,  2022,  financial  instruments  were  converted  at  a  rate  of  US  $1.00  to  CAD  $1.2887. 
+ Balances denominated in foreign currencies as at June 30, 2022 were as follows: 
+ The  estimated  impact  on  net  loss  for  the  six  months  ended  June  30,  2022  with  a  +/-  10%  change  in  Canadian 
+ Dollar exchange rate is approxi  mately $60,000 (2021  – $90,000). 
+ RECENT ACCOUNTING PRONOUNCEMENTS 
+ There are no recent accounting pronouncements that materially affect the Company. 
+ 13 

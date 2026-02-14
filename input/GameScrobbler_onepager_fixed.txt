@@ -1,0 +1,35 @@
+
+==================================================
+EXTRACTED FROM: GameScrobbler_onepager_fixed.pdf
+PAGES: 1
+==================================================
+
+
+
+GameScrobbler
+Digital Sovereignty for the Gaming Generation
+1. THE CORE PROBLEM
+Gaming is the primary digital habitat for youth, yet it operates on a feudal model: platforms own identity,
+achievements, reputation, and behavioral data. Players build value they cannot own or move —
+contradicting Europe’s vision for data rights and Digital Sovereignty.
+2. WHO’S HURT (THE HUMAN COST)
+• Invisible Talent: Youth in emerging markets and diaspora communities develop teamwork, strategy,
+and cognitive skills that remain unseen by education and labor systems.
+• Disenfranchised Creatives: Indie EU developers face locked APIs and platform monopolies.
+• The Player: Fragmented identity, no control over data, and exposure to toxicity without tools for digital
+wellnbeing.
+3. OUR INTERVENTION: PLAYGRAPH
+PlayGraph is a usernowned, interoperable data layer: a protocol for portability, transparency, and
+control. A ‘digital health record’ for gameplay — turning skill, behavior, and reputation into portable,
+verifiable identity signals.
+• Aligned with GDPR, DMA, DSA, and the EU AI Act.
+• Progress becomes portable, skills become verifiable, and data usage becomes transparent.
+4. SOCIAL IMPACT
+• Economic Mobility: Gameplay → softnskill indicators → career and education pathways.
+• Digital Dignity: Users control how AI systems train on their behavior.
+• Open Innovation: Ethical, standardized data access lets EU developers compete globally.
+5. WHY NOW & WHY WAC
+Regulatory momentum (Data Act, DMA, DSA, AI Act) is driving the world toward interoperability and
+userncontrolled identity. Gaming has surpassed social networks as the largest identity space for youth.
+WAC's mission — digital rights, empowerment, dignity — aligns directly with PlayGraph.
+Together, we can make gaming the first global ecosystem where users truly own who they are.

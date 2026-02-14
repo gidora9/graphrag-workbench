@@ -1,0 +1,83 @@
+
+==================================================
+EXTRACTED FROM: Game-Scrobbler-AI-First-Gaming-Intelligence-Platform.pdf
+PAGES: 7
+==================================================
+
+
+
+Game Scrobbler:
+AI-First Gaming Intelligence 
+Platform
+Making gamers' behavior visible and usable across platforms. We're building 
+the data layer for the AI-native gaming future.
+by Ebrahim Eskandaripour
+EE
+
+The Problem
+Fragmented Data
+Gaming data is scattered across 
+multiple platforms with no unified view.
+Developer Blindspot
+Game creators can't fully understand 
+player behavior and preferences.
+Gamer Identity
+Players lack a unified, intelligent profile 
+of their gaming identity.
+
+Why Now Is The Perfect 
+Time
+1
+Cloud Gaming Boom
+Cross-platform play and live services are expanding rapidly.
+2
+AI Revolution
+AI-native ecosystems are redefining product expectations.
+3
+Data Opportunity
+The timing is perfect to build a behavioral data layer for gaming.
+
+Our Solution
+Aggregate & Normalize
+Collect and standardize gameplay data across platforms.
+Model Behavior
+Apply our GSP Framework to understand gamer style profiles.
+Generate Insights
+Create AI-powered summaries like GPT for gamers.
+Power Tools
+Deliver value to developers and players through personalization.
+
+Traction & Integration
+1,000+
+Plugin Downloads
+Growing user adoption
+200+
+Daily Active Users
+Engaged community
+3
+Platform Integrations
+Steam, Playnite, Overwolf
+ (in progress)
+
+Business Model
+Data Monetization
+Privacy-safe, opt-in anonymized insights
+API Licensing
+For aggregators and analytic tools
+B2B SaaS
+Dashboards, segmentation tools, developer SDK
+Freemium for Gamers
+Access Neural Profile, share highlights
+
+Market Opportunity
+1
+2
+3
+We're building the data layer for the AI-native gaming future with Antler's support in Southeast Asia.
+$7.5B
+TAM: Global gaming analytics market
+$99.5M
+SAM: Hardcore gamers + Dev tools
+$8.6M
+SOM (Year 1): Cross-platform gamers + early 
+adopter studios

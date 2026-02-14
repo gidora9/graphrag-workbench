@@ -1,0 +1,88 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Professional_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+n Istanbul, Türkiye
+n e.eskandari@gmail.com
+n linkedin.com/in/eeskandari
+Professional Summary
+Highly accomplished Product Leader with over 10 years of experience in scaling SaaS and data
+products across global markets. Proven expertise in founding and successfully exiting ventures,
+leading high-performing cross-functional teams, and transforming raw data into scalable,
+user-centric products. Seeking to leverage deep expertise in product strategy, analytics, and growth
+leadership as a Senior Product Owner / Product Lead (SaaS, Data) to drive innovation and market
+expansion.
+Core Competencies
+Product Management: Product Strategy, Roadmapping, Agile/Scrum, GTM Planning, Product-Led
+Growth, Product Lifecycle Management, User Research, Market Analysis, Feature Prioritization,
+A/B Testing, KPI Tracking, Stakeholder Alignment
+Technical Tools: Jira, Productboard, Figma, Firebase, Metabase, Google Cloud Platform (GCP),
+PlayGraph API, Playnite SDK, Overwolf SDK
+Data & Analytics: Data Platform Development, Data Pipeline Efficiency, Data-Driven
+Personalization, Data Analytics, Business Intelligence, SQL, Data Visualization
+Leadership & Business: Cross-functional Team Leadership, P&L; Management, Venture
+Founding & Exit, Startup Scaling, International Market Expansion, Revenue Growth, Strategic
+Partnerships, Business Development
+Professional Experience
+Founder & Product Lead | GameScrobbler (GS) — Istanbul, Türkiye (2022–Present)
+• Founded and led a developer-first data platform unifying gameplay signals from multiple
+ecosystems into actionable insights.
+• Designed and delivered the PlayGraph API and analytics layer, transforming fragmented player
+data into measurable engagement vectors.
+• Led a distributed Agile/Scrum team of engineers and data specialists to ship Playnite and
+Overwolf SDK integrations, achieving 20+ daily installs for a full quarter, demonstrating organic
+growth.
+• Defined roadmap, MVP, and GTM strategy resulting in thousands of organic sign-ups and
+sustained long-tail user retention.
+• Partnered with early B2B adopters to pilot data-driven personalization and optimization tools.
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul, Türkiye
+(2020–2021)
+• Oversaw product roadmap, operations, and revenue growth for a global data-collection and
+routing platform.
+• Managed full P&L; ownership (~$2M annual) while scaling data pipeline efficiency by 40%.
+
+• Led roadmap prioritization and KPI tracking using Productboard and Metabase, aligning
+engineering, analytics, and sales teams.
+• Collaborated with enterprise clients to expand API-based integrations for campaign tracking and
+attribution.
+Senior Product Manager | Riwi Corp — Toronto, Canada (2019–2020)
+• Led roadmap development and analytics features for enterprise data products.
+• Delivered new integrations and reporting dashboards, increasing customer adoption by 25%.
+• Partnered with engineers to optimize analytics pipelines, improving data accuracy and usability.
+• Drove stakeholder alignment through KPIs, sprint reviews, and retrospectives.
+• Introduced A/B testing frameworks to validate feature impact and prioritization decisions.
+Co-Founder & COO | Research On Mobile (ROM) — Istanbul, Türkiye (2015–2019)
+• Co-founded and scaled a mobile ad and survey SaaS operating in 20+ countries; successfully
+acquired by Riwi Corp.
+• Built and managed a growth loop combining gamified incentives and data analytics, achieving
+over 10K user sign-ups in 2 weeks at a CAC under $0.10 (vs. $1 market average).
+• Oversaw cross-functional teams across engineering, marketing, and data, driving product iteration
+and expansion.
+• Implemented Agile delivery workflows to shorten release cycles and sustain 30% QoQ growth.
+CEO | NazarBazaar — Tehran, Iran (2012–2014)
+• Founded one of the first digital market-research platforms in Iran, building proprietary systems
+under restricted infrastructure.
+• Developed a custom payment gateway and reward system to enable online participation.
+• Launched user acquisition campaigns that achieved high conversion rates in a market with limited
+online tools.
+• Delivered revenue-generating products through creativity and resilience in constrained
+environments.
+Education
+• Ph.D., Media Management — University of Tehran
+• M.A., Media Management — IRIB University / University of Tehran
+• B.A., Community Planning — Shiraz University
+Key Achievements
+• Successfully founded and exited Research On Mobile, a bootstrapped SaaS acquired by Riwi
+Corp.
+• Delivered multiple zero-to-one product launches in data and SaaS ecosystems.
+• Scaled operations to 20+ international markets with minimal resources through data-driven
+experimentation.
+• Designed and implemented growth campaigns achieving 10x user expansion.
+Languages
+• English: Full Professional Proficiency
+• Farsi: Native Proficiency

@@ -1,0 +1,68 @@
+
+==================================================
+EXTRACTED FROM: Ebrahim_Eskandari_Adjoe_Senior_Product_Owner_CV.pdf
+PAGES: 2
+==================================================
+
+
+
+Ebrahim Eskandari
+Senior Product Owner | Data-Driven SaaS & AdTech Builder
+n Istanbul, Türkiye | n e.eskandari@gmail.com | n linkedin.com/in/eeskandari
+Profile
+Senior Product Owner and former founder with 10+ years of experience building and scaling
+data-centric platforms that connect users, developers, and brands through insightful automation.
+Led end-to-end delivery of high-volume data products (>2B requests per day scale environments),
+blending technical fluency with business strategy. Background spans data SaaS, real-time
+campaign optimization, and behavioral analytics — most recently as Founder of GameScrobbler, a
+data infrastructure platform aggregating cross-platform player signals and powering personalized
+engagement models. Thrive in fast-moving teams where 0→1 product execution and continuous
+experimentation define success.
+Core Strengths
+Product Ownership: Roadmapping · Feature Prioritization · KPI Ownership · Stakeholder Alignment
+AdTech & Data: APIs · Event Pipelines · Campaign Optimization · Attribution · A/B Testing
+Technical Collaboration: Agile / Scrum · SQL · REST / gRPC APIs · ML Integration Concepts
+Leadership: Cross-Functional Team Management · 0→1 Launches · Process Optimization ·
+Mentorship
+Experience
+Founder & Product Owner | GameScrobbler (GS) — Istanbul (2022–Present)
+Built a data platform bridging gaming ecosystems through real-time APIs and behavioral
+intelligence. - Defined roadmap and feature set for PlayGraph, a pipeline processing billions of
+events to enable segmentation and campaign-like optimization use cases. - Introduced analytics
+dashboards and monetization loops similar to ad performance systems, improving engagement
+prediction accuracy by 30%. - Managed 3 cross-functional teams (engineering, design, data) using
+agile sprints and KPI-based planning. - Partnered with ad-tech and gaming publishers to explore
+personalization and in-game reward models built on first-party data.
+Vice President & General Manager | Riwi Corp (via ROM Acquisition) — Istanbul (2020–2021)
+Owned product roadmap for a global data-collection and routing platform powering campaigns for
+Fortune 500 clients. Designed automated pipelines for real-time survey and ad-performance data,
+cutting latency by 40%. Led product operations across engineering and analytics to deliver
+high-volume B2B insight products. Managed P&L; (~$2M annual turnover) while aligning
+commercial and technical roadmaps.
+Senior Product Manager | Riwi Corp — Toronto (2019–2020)
+Spearheaded roadmap for API integrations and campaign dashboards used by advertisers to
+optimize reach and frequency. Conducted user research and A/B tests that increased reporting
+adoption by 25%.
+Co-Founder & COO | Research On Mobile (ROM) — Istanbul (2015–2019)
+
+Co-founded a mobile ad and survey network operating in 20+ countries; bootstrapped to >$1.5M
+annual revenue and acquired by Riwi Corp. Launched viral referral campaign that added 10K users
+in 2 weeks with CAC < $0.10 vs $1 market average. Owned product strategy, growth analytics, and
+partnerships with telecom operators and publishers.
+CEO | NazarBazaar — Tehran (2012–2014)
+Founded an early digital market-research platform, developing custom payment gateways and
+reward systems under severe infrastructure constraints.
+Education
+Ph.D., Media Management — University of Tehran
+M.A., Media Management — IRIB University / University of Tehran
+B.A., Community Planning — Shiraz University
+Technical Stack & Tools
+SQL · APIs · Firebase · Metabase · Figma · Productboard · Jira · Google Cloud · Amplitude
+(conceptual) · Snowflake (conceptual)
+Personal Projects & Passion
+GameScrobbler PlayGraph — a side project exploring how user behavior embeddings can improve
+ad relevance and retention without invasive tracking. Demonstrates ability to design and ship
+ML-ready data products with minimal resources.
+Relocation & Availability
+Open to relocation to Hamburg with visa support · Available within 30 days of offer · Desired salary
+range: €85–95K gross annual (negotiable)

@@ -1,0 +1,70 @@
+
+==================================================
+EXTRACTED FROM: GameScrobbler_PitchDeck_WithSpeakerNotes.pdf
+PAGES: 10
+==================================================
+
+
+
+Game Scrobbler
+AI-First Gaming Intelligence Platform
+Making gamers’ behavior visible and usable.
+
+Problem
+Gaming data is fragmented across platforms.
+Developers can’t understand player behavior.
+Gamers lack a unified, intelligent profile of themselves.
+
+Why Now
+- Cloud gaming, cross-platform play, and live services are booming
+- AI-native ecosystems are redefining product expectations
+- Timing is perfect to build a behavioral data layer for the gaming era
+
+Solution
+Game Scrobbler is a cross-platform behavioral intelligence engine:
+- Aggregates and normalizes gameplay data
+- Models behavior using our GSP Framework (Gamer Style Profile)
+- Generates AI-powered summaries and insights (like GPT for gamers)
+- Powers tools for developers, insights for players, and future 
+personalization
+
+Traction
+- ✅ 1,000+ plugin downloads
+- ✅ 200+ daily active users (DAU)
+- ✅ Steam login + Playnite plugin live
+- ✅ Overwolf integration in progress
+- ✅ Early B2B interest from game tools and analytics platforms
+
+Business Model
+- Freemium for gamers: access your Neural Profile, share highlights
+- B2B SaaS: dashboards, segmentation tools, developer SDK
+- API licensing: for aggregators and analytic tools
+- Data monetization: privacy-safe, opt-in anonymized insights
+
+Competitive Advantage
+- AI-first architecture: not just analytics, behavioral modeling
+- Deep engagement metrics vs. surface stats
+- Cross-platform from Day 1
+- Team with gaming, AI, and infra experience
+
+Team
+- Ebrahim Eskandari – Founder (exited founder, product + gaming)
+- Mehrad Rousta – Backend & AI systems
+- Ali Mirghafouri – Frontend & UX
+- Advisors: Farzad Haghighat (tech/gaming), Mehdi Kazemi 
+(ex-Google, ML systems)
+_All are ex-teammates from a previous successful startup_
+
+Market & Opportunity
+- TAM: $7.5B (global gaming analytics)
+- SAM (initial): $99.5M – Hardcore gamers + Dev tools
+- SOM (Year 1): $8.6M – Cross-platform gamer segment + early 
+adopter studios
+- The data layer for the AI-native gaming future
+
+Why Antler
+- Antler understands AI-first product and data-native disruption
+- Southeast Asia is a launchpad for global gaming innovation
+- The mentorship, capital, and compute support can unlock our 
+potential
+- We're here to build fast, scale smart, and learn with the best
