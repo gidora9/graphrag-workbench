@@ -69,6 +69,9 @@ export default function CorpusPanel() {
     const res = await fetch('/api/corpus/state', { cache: 'no-store' })
     if (res.ok) {
       const data = await res.json()
+      // Ensure arrays are initialized
+      if (!Array.isArray(data.uploads)) data.uploads = []
+      if (!Array.isArray(data.queue)) data.queue = []
       setState(data)
       setInitialLoading(false)
     }

@@ -110,8 +110,19 @@ export async function GET() {
           fs.appendFile(p, `${new Date().toISOString()}\t${text.replace(/\r?\n/g, '')}\n`).catch(() => { })
         }
         send('status', { message: `Indexing started with ${modeLabel}…` })
-        const exe = path.join(root, '.venv/bin/graphrag')
-        const cmd = `"${exe}" index --root "${root}" --config "${configFile}"`
+
+        // Check for venv, fallback to global
+        let exe = 'graphrag'
+        const venvExe = path.join(root, '.venv/bin/graphrag')
+        try {
+          await fs.access(venvExe)
+          exe = `"${venvExe}"`
+          sendLog('Using virtual environment graphrag')
+        } catch {
+          sendLog('Virtual environment not found, falling back to global graphrag')
+        }
+
+        const cmd = `${exe} index --root "${root}" --config "${configFile}"`
         sendLog(`Executing: ${cmd}`)
 
         const child = spawn('bash', ['-c', cmd], { cwd: root, env })
