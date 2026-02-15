@@ -105,8 +105,8 @@ export async function GET() {
         const configFile = 'settings.yaml'
         const modeLabel = 'OpenAI (settings.yaml)'
         send('status', { message: `Indexing started with ${modeLabel}…` })
-        const cmd = `graphrag index --config ${configFile}`
-        const child = spawn('bash', ['-lc', cmd], { cwd: root, env })
+        const cmd = `${path.join(root, '.venv/bin/graphrag')} index --config ${configFile}`
+        const child = spawn('bash', ['-c', cmd], { cwd: root, env })
         const appendLog = async (line: string) => {
           try {
             const p = path.join(root, 'logs_history.log')
