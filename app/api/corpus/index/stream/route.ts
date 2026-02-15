@@ -8,7 +8,7 @@ interface UploadEntry {
   name: string
   size: number
   mtime: number
-  type: 'txt'|'pdf'
+  type: 'txt' | 'pdf'
   status?: string
   prepared_at?: number
   indexed_at?: number
@@ -19,7 +19,7 @@ export async function GET() {
   const encoder = new TextEncoder()
   const appDir = process.cwd()
   const root = appDir
-  
+
   // OpenAI-only mode; ignore query parameter
 
   const stream = new ReadableStream<Uint8Array>({
@@ -34,7 +34,7 @@ export async function GET() {
         try {
           const inputDir = path.join(root, 'input')
           const pdfArchive = path.join(inputDir, '_pdfs')
-          await fs.mkdir(pdfArchive, { recursive: true }).catch(() => {})
+          await fs.mkdir(pdfArchive, { recursive: true }).catch(() => { })
           // 1) Convert any PDFs in input/
           const ents = await fs.readdir(inputDir, { withFileTypes: true }).catch(() => [])
           const pdfs = ents.filter(e => e.isFile() && e.name.toLowerCase().endsWith('.pdf')).map(e => e.name)
@@ -58,7 +58,7 @@ export async function GET() {
               try {
                 await fs.rename(path.join(inputDir, pdf), path.join(pdfArchive, pdf))
                 send('log', { line: `Moved PDF to ${path.join('input', '_pdfs', pdf)}` })
-              } catch {}
+              } catch { }
             }
           }
 
@@ -87,7 +87,7 @@ export async function GET() {
             if (txts.length === 0) {
               send('log', { line: `No .txt files found in ${path.join('input')}. Upload PDFs or TXT files.` })
             }
-          } catch {}
+          } catch { }
           // Update uploads registry statuses to 'scanning'
           const uploadsPath = path.join(root, 'output', 'uploads.json')
           const raw = await fs.readFile(uploadsPath, 'utf-8').catch(() => '[]')
@@ -104,19 +104,21 @@ export async function GET() {
         // Start indexing after dataset is prepared
         const configFile = 'settings.yaml'
         const modeLabel = 'OpenAI (settings.yaml)'
-        send('status', { message: `Indexing started with ${modeLabel}…` })
-        const cmd = `${path.join(root, '.venv/bin/graphrag')} index --config ${configFile}`
-        const child = spawn('bash', ['-c', cmd], { cwd: root, env })
-        const appendLog = async (line: string) => {
-          try {
-            const p = path.join(root, 'logs_history.log')
-            await fs.appendFile(p, `${new Date().toISOString()}\t${line.replace(/\r?\n/g, '')}\n`)
-          } catch {}
+        const sendLog = (text: string) => {
+          send('log', { line: text })
+          const p = path.join(root, 'logs_history.log')
+          fs.appendFile(p, `${new Date().toISOString()}\t${text.replace(/\r?\n/g, '')}\n`).catch(() => { })
         }
+        send('status', { message: `Indexing started with ${modeLabel}…` })
+        const exe = path.join(root, '.venv/bin/graphrag')
+        const cmd = `"${exe}" index --root "${root}" --config "${configFile}"`
+        sendLog(`Executing: ${cmd}`)
+
+        const child = spawn('bash', ['-c', cmd], { cwd: root, env })
+
         child.stdout.on('data', (chunk: Buffer) => {
           const text = chunk.toString()
-          send('log', { line: text })
-          text.split(/\r?\n/).forEach((ln) => { if (ln.trim()) appendLog(ln) })
+          sendLog(text)
           if (/Starting pipeline|Running standard indexing|Executing pipeline/.test(text)) send('progress', { value: 5 })
           if (/create_communities/.test(text)) send('progress', { value: 40 })
           if (/create_community_reports/.test(text)) send('progress', { value: 65 })
@@ -125,10 +127,10 @@ export async function GET() {
         })
         child.stderr.on('data', (chunk: Buffer) => {
           const text = chunk.toString()
-          send('log', { line: text })
-          text.split(/\r?\n/).forEach((ln) => { if (ln.trim()) appendLog(ln) })
+          sendLog(text)
         })
         child.on('close', async (code) => {
+          if (code !== 0) sendLog(`Process exited with code ${code}`)
           send('status', { message: 'Indexing finished' })
           try {
             const outDir = path.join(root, 'output')
@@ -148,7 +150,7 @@ export async function GET() {
               for (const r of reg) { r.status = 'indexed'; r.indexed_at = now }
               await fs.writeFile(uploadsPath, JSON.stringify(reg, null, 2))
             }
-          } catch {}
+          } catch { }
           controller.close()
         })
         child.on('error', (err) => {
