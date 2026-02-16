@@ -123,6 +123,8 @@ export async function GET() {
         }
 
         const cmd = `${exe} index --root "${root}" --config "${configFile}"`
+        const exe = path.join(root, '.venv/bin/graphrag')
+        const cmd = `"${exe}" index --root "${root}"`
         sendLog(`Executing: ${cmd}`)
 
         const child = spawn('bash', ['-c', cmd], { cwd: root, env })
@@ -174,7 +176,7 @@ export async function GET() {
         const configFile = 'settings.yaml'
         const modeLabel = 'OpenAI (settings.yaml)'
         send('status', { message: `Indexing started with ${modeLabel}…` })
-        const cmd = `graphrag index --config ${configFile}`
+        const cmd = `graphrag index --root "${root}"`
         spawn('bash', ['-lc', cmd], { cwd: root, env })
       });
     }
