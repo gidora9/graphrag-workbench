@@ -112,19 +112,17 @@ export async function GET() {
         send('status', { message: `Indexing started with ${modeLabel}…` })
 
         // Check for venv, fallback to global
-        let exe = 'graphrag'
+        let graphragExe = 'graphrag'
         const venvExe = path.join(root, '.venv/bin/graphrag')
         try {
           await fs.access(venvExe)
-          exe = `"${venvExe}"`
+          graphragExe = `"${venvExe}"`
           sendLog('Using virtual environment graphrag')
         } catch {
           sendLog('Virtual environment not found, falling back to global graphrag')
         }
 
-        const cmd = `${exe} index --root "${root}" --config "${configFile}"`
-        const exe = path.join(root, '.venv/bin/graphrag')
-        const cmd = `"${exe}" index --root "${root}"`
+        const cmd = `${graphragExe} index --root "${root}" --config "${configFile}"`
         sendLog(`Executing: ${cmd}`)
 
         const child = spawn('bash', ['-c', cmd], { cwd: root, env })
@@ -176,7 +174,7 @@ export async function GET() {
         const configFile = 'settings.yaml'
         const modeLabel = 'OpenAI (settings.yaml)'
         send('status', { message: `Indexing started with ${modeLabel}…` })
-        const cmd = `graphrag index --root "${root}"`
+        const cmd = `graphrag index --config ${configFile}`
         spawn('bash', ['-lc', cmd], { cwd: root, env })
       });
     }
