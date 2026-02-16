@@ -122,9 +122,7 @@ export async function GET() {
           sendLog('Virtual environment not found, falling back to global graphrag')
         }
 
-        const cmd = `${exe} index --root "${root}" --config "${configFile}"`
-        const exe = path.join(root, '.venv/bin/graphrag')
-        const cmd = `"${exe}" index --root "${root}"`
+        const cmd = `${exe} index --root "${root}"`
         sendLog(`Executing: ${cmd}`)
 
         const child = spawn('bash', ['-c', cmd], { cwd: root, env })
